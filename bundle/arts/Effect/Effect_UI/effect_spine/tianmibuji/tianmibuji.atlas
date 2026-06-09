@@ -1,0 +1,13 @@
+
+tianmibuji.png
+size: 56,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianmibuji_04
+  rotate: false
+  xy: 0, 0
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+hunchi_changxiahuashi_yuandi_dh.png
+size: 401,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_chouka_floor_01_2
+  rotate: false
+  xy: 262, 0
+  size: 139, 226
+  orig: 139, 226
+  offset: 0, 0
+  index: -1
+hy_chouka_floor_01_3
+  rotate: true
+  xy: 0, 16
+  size: 120, 260
+  orig: 120, 260
+  offset: 0, 0
+  index: -1
+hy_chouka_floor_01_4
+  rotate: true
+  xy: 0, 149
+  size: 77, 136
+  orig: 77, 136
+  offset: 0, 0
+  index: -1
+hy_chouka_floor_01_5
+  rotate: false
+  xy: 138, 138
+  size: 101, 88
+  orig: 102, 89
+  offset: 1, 1
+  index: -1

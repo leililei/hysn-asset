@@ -1,0 +1,55 @@
+
+tiezhi_zhujiemian_hua.png
+size: 513,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_zhujiemian_flower_01
+  rotate: true
+  xy: 0, 360
+  size: 270, 498
+  orig: 270, 498
+  offset: 0, 0
+  index: -1
+hy_zhujiemian_flower_02
+  rotate: true
+  xy: 0, 34
+  size: 159, 282
+  orig: 159, 282
+  offset: 0, 0
+  index: -1
+hy_zhujiemian_flower_03
+  rotate: true
+  xy: 350, 71
+  size: 287, 163
+  orig: 287, 163
+  offset: 0, 0
+  index: -1
+hy_zhujiemian_flower_05
+  rotate: true
+  xy: 344, 0
+  size: 69, 81
+  orig: 100, 111
+  offset: 23, 16
+  index: -1
+hy_zhujiemian_flower_06
+  rotate: true
+  xy: 284, 122
+  size: 71, 53
+  orig: 74, 61
+  offset: 1, 4
+  index: -1
+hy_zhujiemian_flower_07
+  rotate: true
+  xy: 284, 70
+  size: 50, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+hy_zhujiemian_flower_10
+  rotate: true
+  xy: 0, 195
+  size: 163, 348
+  orig: 163, 348
+  offset: 0, 0
+  index: -1

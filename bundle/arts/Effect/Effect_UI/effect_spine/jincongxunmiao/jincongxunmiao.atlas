@@ -1,0 +1,111 @@
+
+jincongxunmiao.png
+size: 808,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao_er1
+  rotate: true
+  xy: 713, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+mao_er2
+  rotate: false
+  xy: 644, 2
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+mao_hu1
+  rotate: false
+  xy: 757, 64
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+mao_hu2
+  rotate: false
+  xy: 757, 112
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+mao_lingjie
+  rotate: false
+  xy: 562, 1
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+mao_shen
+  rotate: true
+  xy: 0, 9
+  size: 148, 128
+  orig: 148, 128
+  offset: 0, 0
+  index: -1
+mao_shou1
+  rotate: false
+  xy: 130, 12
+  size: 96, 145
+  orig: 96, 145
+  offset: 0, 0
+  index: -1
+mao_shou2
+  rotate: false
+  xy: 696, 75
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+mao_tou
+  rotate: false
+  xy: 228, 13
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+mao_tui1
+  rotate: false
+  xy: 511, 55
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+mao_tui2
+  rotate: false
+  xy: 613, 74
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+mao_wei
+  rotate: false
+  xy: 413, 37
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+mao_yan
+  rotate: false
+  xy: 413, 7
+  size: 98, 28
+  orig: 100, 30
+  offset: 1, 1
+  index: -1
+mao_zui
+  rotate: true
+  xy: 513, 0
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 613, 59
+  size: 23, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1

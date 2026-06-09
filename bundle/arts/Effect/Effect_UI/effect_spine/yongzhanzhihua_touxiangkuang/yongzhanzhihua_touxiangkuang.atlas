@@ -1,0 +1,83 @@
+
+yongzhanzhihua_touxiangkuang.png
+size: 313,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yzzh_tx_01
+  rotate: true
+  xy: 234, 450
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+yzzh_tx_02
+  rotate: false
+  xy: 234, 249
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+yzzh_tx_03
+  rotate: true
+  xy: 0, 0
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+yzzh_tx_04
+  rotate: true
+  xy: 255, 54
+  size: 62, 35
+  orig: 64, 37
+  offset: 1, 1
+  index: -1
+yzzh_tx_05
+  rotate: false
+  xy: 282, 208
+  size: 31, 39
+  orig: 33, 41
+  offset: 1, 1
+  index: -1
+yzzh_tx_06
+  rotate: true
+  xy: 234, 315
+  size: 133, 72
+  orig: 133, 72
+  offset: 0, 0
+  index: -1
+yzzh_tx_07
+  rotate: false
+  xy: 215, 118
+  size: 65, 129
+  orig: 65, 129
+  offset: 0, 0
+  index: -1
+yzzh_tx_08
+  rotate: true
+  xy: 50, 5
+  size: 87, 160
+  orig: 87, 160
+  offset: 0, 0
+  index: -1
+yzzh_tx_09
+  rotate: false
+  xy: 215, 6
+  size: 38, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+yzzh_tx_10
+  rotate: false
+  xy: 0, 94
+  size: 213, 204
+  orig: 240, 240
+  offset: 18, 18
+  index: -1
+yzzh_tx_11
+  rotate: false
+  xy: 0, 300
+  size: 232, 232
+  orig: 234, 234
+  offset: 1, 1
+  index: -1

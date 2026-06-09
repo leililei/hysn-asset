@@ -1,0 +1,41 @@
+
+xizeer_shengri_xsyn.png
+size: 649,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiheye_xsyn_03
+  rotate: false
+  xy: 554, 9
+  size: 55, 64
+  orig: 59, 68
+  offset: 1, 2
+  index: -1
+jiheye_xsyn_04
+  rotate: true
+  xy: 383, 0
+  size: 186, 169
+  orig: 188, 171
+  offset: 1, 1
+  index: -1
+jiheye_xsyn_05
+  rotate: true
+  xy: 554, 75
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+jiheye_xsyn_06
+  rotate: false
+  xy: 383, 188
+  size: 255, 133
+  orig: 255, 133
+  offset: 0, 0
+  index: -1
+jiheye_xsyn_07
+  rotate: false
+  xy: 0, 7
+  size: 381, 314
+  orig: 409, 333
+  offset: 12, 7
+  index: -1

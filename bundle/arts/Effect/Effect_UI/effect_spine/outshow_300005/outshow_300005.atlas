@@ -1,0 +1,20 @@
+
+outshow_300005.png
+size: 202,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+outshow_300005_zhenzhu1
+  rotate: false
+  xy: 0, 0
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1
+outshow_300005_zhenzhu2
+  rotate: false
+  xy: 113, 8
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1

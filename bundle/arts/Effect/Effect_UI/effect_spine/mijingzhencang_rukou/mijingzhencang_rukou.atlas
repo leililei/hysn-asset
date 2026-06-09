@@ -1,0 +1,34 @@
+
+mijingzhencang_rukou.png
+size: 252,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mijingzhencang_01
+  rotate: false
+  xy: 225, 43
+  size: 19, 23
+  orig: 25, 26
+  offset: 3, 1
+  index: -1
+mijingzhencang_02
+  rotate: false
+  xy: 225, 68
+  size: 27, 31
+  orig: 32, 36
+  offset: 3, 2
+  index: -1
+mijingzhencang_03
+  rotate: false
+  xy: 0, 5
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+mijingzhencang_04
+  rotate: false
+  xy: 115, 0
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1

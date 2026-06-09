@@ -1,0 +1,55 @@
+
+weiaidianliang.png
+size: 682,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiqiu1
+  rotate: false
+  xy: 377, 470
+  size: 268, 584
+  orig: 268, 584
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: false
+  xy: 0, 428
+  size: 375, 626
+  orig: 375, 626
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 0, 76
+  size: 350, 524
+  orig: 350, 524
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 526, 41
+  size: 156, 205
+  orig: 156, 205
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 526, 248
+  size: 121, 220
+  orig: 132, 220
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 0, 2
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 86, 0
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1

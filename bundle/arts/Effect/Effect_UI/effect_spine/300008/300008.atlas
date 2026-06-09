@@ -1,0 +1,62 @@
+
+300008.png
+size: 78,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhenma_02
+  rotate: true
+  xy: 61, 37
+  size: 12, 17
+  orig: 15, 19
+  offset: 2, 1
+  index: -1
+zhenma_03
+  rotate: false
+  xy: 42, 36
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+zhenma_04
+  rotate: false
+  xy: 67, 57
+  size: 11, 18
+  orig: 13, 20
+  offset: 1, 1
+  index: -1
+zhenma_05
+  rotate: true
+  xy: 63, 19
+  size: 16, 13
+  orig: 18, 15
+  offset: 1, 1
+  index: -1
+zhenma_06
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+zhenma_07
+  rotate: true
+  xy: 42, 51
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+zhenma_08
+  rotate: false
+  xy: 0, 34
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+zhenma_09
+  rotate: false
+  xy: 34, 5
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1

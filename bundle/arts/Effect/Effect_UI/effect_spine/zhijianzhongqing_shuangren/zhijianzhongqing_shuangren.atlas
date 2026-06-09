@@ -1,0 +1,69 @@
+
+zhijianzhongqing_shuangren.png
+size: 957,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoren01
+  rotate: true
+  xy: 0, 51
+  size: 193, 271
+  orig: 194, 272
+  offset: 0, 1
+  index: -1
+xiaoren02
+  rotate: true
+  xy: 471, 11
+  size: 190, 247
+  orig: 190, 248
+  offset: 0, 1
+  index: -1
+xiaoren03
+  rotate: false
+  xy: 273, 1
+  size: 196, 243
+  orig: 196, 244
+  offset: 0, 1
+  index: -1
+xiaoren04
+  rotate: true
+  xy: 720, 18
+  size: 183, 237
+  orig: 184, 238
+  offset: 0, 1
+  index: -1
+xiaoren05
+  rotate: false
+  xy: 549, 203
+  size: 377, 320
+  orig: 378, 320
+  offset: 0, 0
+  index: -1
+xiaoren06
+  rotate: true
+  xy: 0, 0
+  size: 49, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+xiaoren07
+  rotate: true
+  xy: 928, 439
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xiaoren08
+  rotate: true
+  xy: 928, 481
+  size: 42, 29
+  orig: 42, 30
+  offset: 0, 1
+  index: -1
+xiaoren09
+  rotate: false
+  xy: 0, 246
+  size: 547, 277
+  orig: 548, 278
+  offset: 0, 1
+  index: -1

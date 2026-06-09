@@ -1,0 +1,20 @@
+
+lanyingxvyu_zitenghua1.png
+size: 768,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_lanyingxuyu_orna_01
+  rotate: true
+  xy: 0, 434
+  size: 344, 640
+  orig: 344, 640
+  offset: 0, 0
+  index: -1
+hy_lanyingxuyu_orna_02
+  rotate: true
+  xy: 0, 0
+  size: 432, 768
+  orig: 432, 768
+  offset: 0, 0
+  index: -1

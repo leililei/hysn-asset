@@ -1,0 +1,160 @@
+
+xin.png
+size: 1938,1090
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinfeng_dakai_xian100
+  rotate: false
+  xy: 2, 5
+  size: 628, 459
+  orig: 630, 461
+  offset: 2, 2
+  index: -1
+xinfeng_dakai_xian300
+  rotate: false
+  xy: 1044, 483
+  size: 466, 605
+  orig: 493, 617
+  offset: 13, 1
+  index: -1
+xinfeng_dakai_xing1
+  rotate: true
+  xy: 1466, 24
+  size: 80, 126
+  orig: 96, 144
+  offset: 8, 9
+  index: -1
+xinfeng_dakai_xing2
+  rotate: true
+  xy: 1466, 24
+  size: 80, 126
+  orig: 96, 144
+  offset: 8, 9
+  index: -1
+xinfeng_dakai_xing3
+  rotate: true
+  xy: 1596, 97
+  size: 56, 144
+  orig: 60, 146
+  offset: 2, 1
+  index: -1
+xinfeng_dakai_xing4
+  rotate: true
+  xy: 1596, 97
+  size: 56, 144
+  orig: 60, 146
+  offset: 2, 1
+  index: -1
+xinfeng_dakai_zhi1
+  rotate: false
+  xy: 1512, 480
+  size: 420, 608
+  orig: 428, 616
+  offset: 4, 4
+  index: -1
+xinfeng_dakai_zhi2
+  rotate: true
+  xy: 632, 2
+  size: 462, 604
+  orig: 468, 610
+  offset: 3, 3
+  index: -1
+xinfeng_dian1
+  rotate: false
+  xy: 1756, 81
+  size: 52, 52
+  orig: 60, 60
+  offset: 4, 4
+  index: -1
+xinfeng_dian2
+  rotate: false
+  xy: 1756, 29
+  size: 50, 50
+  orig: 66, 66
+  offset: 8, 8
+  index: -1
+xinfeng_dian3
+  rotate: false
+  xy: 1855, 133
+  size: 60, 60
+  orig: 70, 70
+  offset: 5, 5
+  index: -1
+xinfeng_diaozhui1
+  rotate: false
+  xy: 1861, 278
+  size: 39, 200
+  orig: 39, 200
+  offset: 0, 0
+  index: -1
+xinfeng_diaozhui2
+  rotate: true
+  xy: 1238, 2
+  size: 36, 200
+  orig: 36, 200
+  offset: 0, 0
+  index: -1
+xinfeng_diaozhui3
+  rotate: false
+  xy: 1238, 40
+  size: 226, 441
+  orig: 226, 441
+  offset: 0, 0
+  index: -1
+xinfeng_guang1
+  rotate: false
+  xy: 1596, 155
+  size: 155, 72
+  orig: 174, 86
+  offset: 7, 6
+  index: -1
+xinfeng_huaban1
+  rotate: false
+  xy: 1594, 15
+  size: 93, 80
+  orig: 101, 88
+  offset: 4, 4
+  index: -1
+xinfeng_huaban2
+  rotate: true
+  xy: 1689, 9
+  size: 86, 65
+  orig: 95, 75
+  offset: 4, 4
+  index: -1
+xinfeng_huaban3
+  rotate: true
+  xy: 1753, 135
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+xinfeng_huaban4
+  rotate: false
+  xy: 1861, 195
+  size: 75, 81
+  orig: 83, 92
+  offset: 5, 4
+  index: -1
+xinfeng_hudie
+  rotate: false
+  xy: 1466, 106
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+xinfeng_xinfeng
+  rotate: false
+  xy: 2, 466
+  size: 1040, 622
+  orig: 1049, 643
+  offset: 1, 13
+  index: -1
+xinfeng_zhuanshihua
+  rotate: false
+  xy: 1466, 229
+  size: 393, 249
+  orig: 409, 266
+  offset: 8, 8
+  index: -1

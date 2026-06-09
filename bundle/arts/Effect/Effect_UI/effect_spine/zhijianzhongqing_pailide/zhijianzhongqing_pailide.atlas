@@ -1,0 +1,83 @@
+
+zhijianzhongqing_pailide.png
+size: 275,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_glow_000
+  rotate: true
+  xy: 0, 306
+  size: 157, 160
+  orig: 256, 256
+  offset: 49, 48
+  index: -1
+aixin
+  rotate: false
+  xy: 219, 113
+  size: 47, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+gaogao
+  rotate: false
+  xy: 162, 326
+  size: 113, 137
+  orig: 116, 138
+  offset: 2, 1
+  index: -1
+xiangji1
+  rotate: false
+  xy: 0, 0
+  size: 152, 150
+  orig: 154, 152
+  offset: 1, 1
+  index: -1
+xiangji2
+  rotate: false
+  xy: 0, 465
+  size: 275, 251
+  orig: 276, 252
+  offset: 1, 1
+  index: -1
+xiangji3
+  rotate: true
+  xy: 0, 152
+  size: 152, 157
+  orig: 154, 158
+  offset: 1, 0
+  index: -1
+xiangzhi
+  rotate: true
+  xy: 0, 718
+  size: 256, 272
+  orig: 256, 376
+  offset: 0, 104
+  index: -1
+xingxing1
+  rotate: false
+  xy: 219, 159
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 159, 156
+  size: 58, 55
+  orig: 58, 56
+  offset: 0, 1
+  index: -1
+ye1
+  rotate: true
+  xy: 162, 265
+  size: 59, 73
+  orig: 60, 74
+  offset: 0, 1
+  index: -1
+ye2
+  rotate: false
+  xy: 159, 213
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1

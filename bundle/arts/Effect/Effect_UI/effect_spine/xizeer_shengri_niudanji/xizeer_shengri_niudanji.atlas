@@ -1,0 +1,69 @@
+
+xizeer_shengri_niudanji.png
+size: 818,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niudanji_04
+  rotate: true
+  xy: 613, 22
+  size: 43, 107
+  orig: 43, 107
+  offset: 0, 0
+  index: -1
+niudanji_04_1
+  rotate: false
+  xy: 722, 40
+  size: 25, 25
+  orig: 28, 28
+  offset: 1, 2
+  index: -1
+niudanji_05
+  rotate: true
+  xy: 0, 5
+  size: 254, 298
+  orig: 265, 315
+  offset: 8, 7
+  index: -1
+niudanji_06
+  rotate: false
+  xy: 751, 192
+  size: 67, 67
+  orig: 69, 69
+  offset: 1, 1
+  index: -1
+niudanji_07
+  rotate: false
+  xy: 751, 123
+  size: 67, 67
+  orig: 69, 69
+  offset: 1, 1
+  index: -1
+niudanji_08
+  rotate: false
+  xy: 543, 0
+  size: 68, 65
+  orig: 70, 67
+  offset: 1, 1
+  index: -1
+niudanji_09
+  rotate: true
+  xy: 751, 54
+  size: 67, 66
+  orig: 69, 68
+  offset: 1, 1
+  index: -1
+niudanji_10
+  rotate: true
+  xy: 543, 67
+  size: 192, 206
+  orig: 194, 208
+  offset: 1, 1
+  index: -1
+niudanji_13
+  rotate: false
+  xy: 300, 37
+  size: 241, 222
+  orig: 247, 228
+  offset: 3, 3
+  index: -1

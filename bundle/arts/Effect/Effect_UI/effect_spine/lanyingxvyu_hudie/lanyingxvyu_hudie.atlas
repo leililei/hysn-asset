@@ -1,0 +1,13 @@
+
+lanyingxvyu_hudie.png
+size: 100,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudie2
+  rotate: false
+  xy: 0, 0
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1

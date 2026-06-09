@@ -1,0 +1,55 @@
+
+miaowangdazhan_dajia.png
+size: 787,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuhao
+  rotate: true
+  xy: 630, 143
+  size: 114, 118
+  orig: 120, 120
+  offset: 6, 1
+  index: -1
+gou1
+  rotate: false
+  xy: 684, 90
+  size: 103, 51
+  orig: 103, 51
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: true
+  xy: 684, 17
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+gou3
+  rotate: true
+  xy: 0, 0
+  size: 257, 326
+  orig: 257, 326
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 328, 2
+  size: 255, 300
+  orig: 255, 300
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 736, 13
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 630, 34
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1

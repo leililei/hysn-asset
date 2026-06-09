@@ -1,0 +1,13 @@
+
+yihai_chouka_hudiejie.png
+size: 248,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudiejie
+  rotate: false
+  xy: 0, 0
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1

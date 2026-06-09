@@ -1,0 +1,118 @@
+
+fwiqiu_kaixin.png
+size: 880,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaixin_jiao1
+  rotate: true
+  xy: 586, 0
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+kaixin_jiao1_2
+  rotate: false
+  xy: 772, 188
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+kaixin_jiao2
+  rotate: false
+  xy: 710, 188
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+kaixin_jiao2_2
+  rotate: true
+  xy: 772, 0
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+kaixin_mao2
+  rotate: false
+  xy: 290, 83
+  size: 302, 160
+  orig: 304, 162
+  offset: 1, 1
+  index: -1
+kaixin_maozi1
+  rotate: false
+  xy: 290, 0
+  size: 294, 81
+  orig: 294, 81
+  offset: 0, 0
+  index: -1
+kaixin_shen
+  rotate: true
+  xy: 0, 15
+  size: 228, 288
+  orig: 229, 288
+  offset: 1, 0
+  index: -1
+kaixin_shou1
+  rotate: false
+  xy: 594, 114
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+kaixin_shou2
+  rotate: true
+  xy: 643, 8
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+kaixin_xin1
+  rotate: false
+  xy: 829, 20
+  size: 41, 39
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+kaixin_xin2
+  rotate: false
+  xy: 779, 77
+  size: 62, 57
+  orig: 64, 58
+  offset: 1, 0
+  index: -1
+kaixin_xin3
+  rotate: true
+  xy: 710, 114
+  size: 72, 67
+  orig: 74, 68
+  offset: 1, 0
+  index: -1
+kaixin_yan1
+  rotate: true
+  xy: 843, 94
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+kaixin_yan2
+  rotate: true
+  xy: 843, 61
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+kaixin_zui1
+  rotate: true
+  xy: 846, 127
+  size: 59, 34
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+kaixin_zui2
+  rotate: true
+  xy: 779, 136
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+pojianchengdie_touxiangkuang.png
+size: 284,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pojianchengdie_01
+  rotate: true
+  xy: 211, 0
+  size: 19, 29
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+pojianchengdie_02
+  rotate: true
+  xy: 173, 3
+  size: 30, 36
+  orig: 32, 40
+  offset: 1, 2
+  index: -1
+pojianchengdie_03
+  rotate: true
+  xy: 0, 123
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+pojianchengdie_04
+  rotate: true
+  xy: 121, 92
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+pojianchengdie_05
+  rotate: true
+  xy: 121, 1
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+pojianchengdie_06
+  rotate: false
+  xy: 232, 170
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+pojianchengdie_07
+  rotate: false
+  xy: 232, 344
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+pojianchengdie_08
+  rotate: true
+  xy: 159, 36
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+pojianchengdie_09
+  rotate: true
+  xy: 188, 35
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+pojianchengdie_10
+  rotate: true
+  xy: 232, 437
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+pojianchengdie_11
+  rotate: true
+  xy: 0, 1
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+pojianchengdie_12
+  rotate: true
+  xy: 218, 21
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+pojianchengdie_13
+  rotate: false
+  xy: 121, 36
+  size: 36, 54
+  orig: 40, 58
+  offset: 2, 2
+  index: -1
+pojianchengdie_14
+  rotate: true
+  xy: 220, 83
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+pojianchengdie_15
+  rotate: true
+  xy: 232, 250
+  size: 92, 45
+  orig: 103, 76
+  offset: 2, 1
+  index: -1
+pojianchengdie_16
+  rotate: true
+  xy: 188, 119
+  size: 86, 30
+  orig: 88, 32
+  offset: 1, 1
+  index: -1
+pojianchengdie_17
+  rotate: false
+  xy: 0, 167
+  size: 186, 127
+  orig: 186, 127
+  offset: 0, 0
+  index: -1
+pojianchengdie_18
+  rotate: false
+  xy: 188, 207
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+pojianchengdie_19
+  rotate: false
+  xy: 0, 296
+  size: 230, 230
+  orig: 232, 232
+  offset: 1, 1
+  index: -1

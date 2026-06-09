@@ -1,0 +1,27 @@
+
+feiqiu_jiesuan_hailang.png
+size: 1422,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiesuan_hailang
+  rotate: false
+  xy: 0, 0
+  size: 1080, 169
+  orig: 1080, 169
+  offset: 0, 0
+  index: -1
+jiesuan_hailuo
+  rotate: true
+  xy: 1348, 79
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+jiesuan_tong
+  rotate: true
+  xy: 1082, 25
+  size: 144, 264
+  orig: 144, 265
+  offset: 0, 1
+  index: -1

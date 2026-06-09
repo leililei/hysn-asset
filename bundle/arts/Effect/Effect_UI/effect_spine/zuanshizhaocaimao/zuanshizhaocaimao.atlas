@@ -1,0 +1,146 @@
+
+zuanshizhaocaimao.png
+size: 2026,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao_juzi
+  rotate: false
+  xy: 815, 0
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+mao_lingdang
+  rotate: true
+  xy: 552, 21
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+mao_shen
+  rotate: true
+  xy: 0, 22
+  size: 358, 240
+  orig: 358, 240
+  offset: 0, 0
+  index: -1
+mao_tou
+  rotate: true
+  xy: 242, 48
+  size: 332, 258
+  orig: 334, 268
+  offset: 0, 0
+  index: -1
+mao_wei
+  rotate: false
+  xy: 1643, 35
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1
+mao_xuanshi
+  rotate: false
+  xy: 1855, 91
+  size: 117, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+mao_youer
+  rotate: true
+  xy: 1761, 75
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+mao_youqianzuanshi
+  rotate: true
+  xy: 695, 96
+  size: 284, 181
+  orig: 284, 182
+  offset: 0, 0
+  index: -1
+mao_youshou
+  rotate: false
+  xy: 1328, 180
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+mao_youyan
+  rotate: true
+  xy: 242, 10
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+mao_youzuanshi
+  rotate: false
+  xy: 878, 130
+  size: 448, 250
+  orig: 448, 252
+  offset: 0, 1
+  index: -1
+mao_zhaocai
+  rotate: false
+  xy: 1338, 11
+  size: 139, 167
+  orig: 140, 168
+  offset: 1, 1
+  index: -1
+mao_zui
+  rotate: false
+  xy: 502, 9
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+mao_zuoer
+  rotate: true
+  xy: 695, 0
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+mao_zuoshou
+  rotate: false
+  xy: 1855, 3
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+mao_zuozuanshi
+  rotate: true
+  xy: 502, 77
+  size: 303, 191
+  orig: 304, 192
+  offset: 0, 1
+  index: -1
+zuanshi0
+  rotate: true
+  xy: 1486, 7
+  size: 190, 155
+  orig: 190, 156
+  offset: 0, 1
+  index: -1
+zuanshi1
+  rotate: false
+  xy: 907, 1
+  size: 429, 127
+  orig: 430, 128
+  offset: 0, 1
+  index: -1
+zuodian
+  rotate: false
+  xy: 1486, 199
+  size: 540, 181
+  orig: 570, 184
+  offset: 0, 3
+  index: -1
+zuoyan
+  rotate: false
+  xy: 0, 7
+  size: 42, 13
+  orig: 42, 14
+  offset: 0, 1
+  index: -1

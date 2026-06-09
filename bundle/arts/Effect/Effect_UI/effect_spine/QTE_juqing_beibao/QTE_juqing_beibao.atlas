@@ -1,0 +1,111 @@
+
+QTE_juqing_beibao.png
+size: 1937,1295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shubao_guan01
+  rotate: false
+  xy: 1752, 435
+  size: 76, 298
+  orig: 76, 298
+  offset: 0, 0
+  index: -1
+shubao_guan02
+  rotate: false
+  xy: 1830, 458
+  size: 80, 275
+  orig: 87, 275
+  offset: 7, 0
+  index: -1
+shubao_guan03
+  rotate: false
+  xy: 2, 38
+  size: 613, 383
+  orig: 613, 383
+  offset: 0, 0
+  index: -1
+shubao_guan04
+  rotate: false
+  xy: 1313, 735
+  size: 622, 558
+  orig: 631, 558
+  offset: 0, 0
+  index: -1
+shubao_guan05
+  rotate: false
+  xy: 658, 439
+  size: 653, 854
+  orig: 653, 854
+  offset: 0, 0
+  index: -1
+shubao_guan06
+  rotate: true
+  xy: 1752, 207
+  size: 226, 121
+  orig: 226, 121
+  offset: 0, 0
+  index: -1
+shubao_guan07
+  rotate: true
+  xy: 1313, 503
+  size: 230, 137
+  orig: 230, 137
+  offset: 0, 0
+  index: -1
+shubao_guan08
+  rotate: true
+  xy: 658, 164
+  size: 273, 813
+  orig: 273, 813
+  offset: 0, 0
+  index: -1
+shubao_kai01
+  rotate: true
+  xy: 1260, 10
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+shubao_kai02
+  rotate: false
+  xy: 1752, 11
+  size: 153, 194
+  orig: 153, 194
+  offset: 0, 0
+  index: -1
+shubao_kai03
+  rotate: true
+  xy: 617, 380
+  size: 41, 25
+  orig: 43, 27
+  offset: 1, 1
+  index: -1
+shubao_kai04
+  rotate: false
+  xy: 2, 2
+  size: 56, 34
+  orig: 59, 36
+  offset: 1, 1
+  index: -1
+shubao_kai05
+  rotate: true
+  xy: 1473, 86
+  size: 647, 277
+  orig: 647, 277
+  offset: 0, 0
+  index: -1
+shubao_kai06
+  rotate: false
+  xy: 617, 5
+  size: 641, 157
+  orig: 641, 157
+  offset: 0, 0
+  index: -1
+shubao_kai07
+  rotate: false
+  xy: 2, 423
+  size: 654, 870
+  orig: 654, 870
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+daoju_jingmen_hudie.png
+size: 1968,1318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: true
+  xy: 0, 0
+  size: 652, 960
+  orig: 652, 960
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 1532, 582
+  size: 436, 736
+  orig: 436, 736
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 0, 654
+  size: 664, 980
+  orig: 664, 980
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 982, 330
+  size: 548, 988
+  orig: 548, 988
+  offset: 0, 0
+  index: -1
+hudie1
+  rotate: true
+  xy: 1128, 47
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+hudie10
+  rotate: false
+  xy: 962, 51
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+hudie11
+  rotate: false
+  xy: 1782, 12
+  size: 136, 182
+  orig: 136, 182
+  offset: 0, 0
+  index: -1
+hudie12
+  rotate: false
+  xy: 1532, 332
+  size: 211, 248
+  orig: 211, 248
+  offset: 0, 0
+  index: -1
+hudie2
+  rotate: false
+  xy: 1782, 196
+  size: 163, 188
+  orig: 164, 188
+  offset: 0, 0
+  index: -1
+hudie3
+  rotate: true
+  xy: 1285, 48
+  size: 126, 137
+  orig: 127, 143
+  offset: 1, 6
+  index: -1
+hudie4
+  rotate: false
+  xy: 962, 166
+  size: 164, 162
+  orig: 164, 167
+  offset: 0, 5
+  index: -1
+hudie5
+  rotate: true
+  xy: 1745, 386
+  size: 194, 158
+  orig: 200, 158
+  offset: 6, 0
+  index: -1
+hudie6
+  rotate: true
+  xy: 1532, 160
+  size: 170, 248
+  orig: 170, 248
+  offset: 0, 0
+  index: -1
+hudie8
+  rotate: true
+  xy: 1128, 175
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+hudie9
+  rotate: false
+  xy: 1285, 176
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1

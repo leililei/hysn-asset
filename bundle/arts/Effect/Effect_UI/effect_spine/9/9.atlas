@@ -1,0 +1,48 @@
+
+9.png
+size: 134,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianxinxingdong_dangao1
+  rotate: false
+  xy: 92, 25
+  size: 20, 27
+  orig: 22, 29
+  offset: 1, 1
+  index: -1
+tianxinxingdong_dangao2
+  rotate: false
+  xy: 0, 0
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+tianxinxingdong_tuzi
+  rotate: false
+  xy: 92, 54
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+tianxinxingdong_xin1
+  rotate: false
+  xy: 114, 19
+  size: 17, 15
+  orig: 21, 19
+  offset: 2, 2
+  index: -1
+tianxinxingdong_xin2
+  rotate: true
+  xy: 92, 0
+  size: 23, 20
+  orig: 27, 24
+  offset: 2, 2
+  index: -1
+tianxinxingdong_xin3
+  rotate: false
+  xy: 114, 36
+  size: 18, 16
+  orig: 22, 20
+  offset: 2, 2
+  index: -1

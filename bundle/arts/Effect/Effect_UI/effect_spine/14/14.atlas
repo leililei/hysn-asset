@@ -1,0 +1,41 @@
+
+14.png
+size: 154,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huajiangongyu_01
+  rotate: false
+  xy: 117, 42
+  size: 19, 19
+  orig: 25, 25
+  offset: 3, 3
+  index: -1
+huajiangongyu_02
+  rotate: false
+  xy: 117, 24
+  size: 16, 16
+  orig: 22, 22
+  offset: 3, 3
+  index: -1
+huajiangongyu_03
+  rotate: false
+  xy: 117, 24
+  size: 16, 16
+  orig: 22, 22
+  offset: 3, 3
+  index: -1
+huajiangongyu_04
+  rotate: true
+  xy: 117, 63
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+huajiangongyu_05
+  rotate: true
+  xy: 0, 0
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1

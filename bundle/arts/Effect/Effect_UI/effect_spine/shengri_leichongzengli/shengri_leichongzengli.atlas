@@ -1,0 +1,55 @@
+
+shengri_leichongzengli.png
+size: 1976,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiqiu1
+  rotate: true
+  xy: 1154, 33
+  size: 342, 600
+  orig: 342, 600
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: true
+  xy: 0, 0
+  size: 375, 626
+  orig: 375, 626
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 628, 25
+  size: 350, 524
+  orig: 350, 524
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1756, 96
+  size: 156, 205
+  orig: 156, 205
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1756, 254
+  size: 121, 220
+  orig: 132, 220
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 1756, 10
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 1830, 13
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+xinshoulibao_qiqiu.png
+size: 229,846
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinshoulibao_qiqiu1
+  rotate: true
+  xy: 0, 757
+  size: 89, 209
+  orig: 92, 211
+  offset: 2, 1
+  index: -1
+xinshoulibao_qiqiu2
+  rotate: true
+  xy: 0, 664
+  size: 91, 204
+  orig: 93, 206
+  offset: 1, 1
+  index: -1
+xinshoulibao_qiqiu3
+  rotate: false
+  xy: 134, 387
+  size: 95, 275
+  orig: 97, 277
+  offset: 1, 1
+  index: -1
+xinshoulibao_qiqiu4
+  rotate: true
+  xy: 134, 305
+  size: 80, 93
+  orig: 82, 96
+  offset: 1, 2
+  index: -1
+xinshoulibao_qiqiu5
+  rotate: false
+  xy: 0, 382
+  size: 132, 280
+  orig: 136, 280
+  offset: 4, 0
+  index: -1
+xinshoulibao_qiqiu6
+  rotate: false
+  xy: 0, 43
+  size: 111, 337
+  orig: 111, 337
+  offset: 0, 0
+  index: -1
+xinshoulibao_qiqiu7
+  rotate: false
+  xy: 113, 0
+  size: 109, 303
+  orig: 113, 303
+  offset: 4, 0
+  index: -1

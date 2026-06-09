@@ -1,0 +1,13 @@
+
+mianguanggao_mao.png
+size: 272,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_mianguang_cat
+  rotate: false
+  xy: 0, 0
+  size: 272, 155
+  orig: 272, 156
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+90001.png
+size: 207,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yihai_01
+  rotate: false
+  xy: 181, 2
+  size: 18, 18
+  orig: 24, 24
+  offset: 3, 3
+  index: -1
+yihai_02
+  rotate: false
+  xy: 181, 22
+  size: 23, 23
+  orig: 29, 29
+  offset: 3, 3
+  index: -1
+yihai_03
+  rotate: false
+  xy: 161, 47
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+yihai_04
+  rotate: false
+  xy: 152, 18
+  size: 27, 27
+  orig: 33, 33
+  offset: 3, 3
+  index: -1
+yihai_05
+  rotate: false
+  xy: 102, 10
+  size: 48, 43
+  orig: 52, 47
+  offset: 2, 2
+  index: -1
+yihai_06
+  rotate: true
+  xy: 102, 55
+  size: 40, 57
+  orig: 43, 61
+  offset: 2, 2
+  index: -1
+yihai_07
+  rotate: false
+  xy: 0, 0
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1

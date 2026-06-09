@@ -1,0 +1,83 @@
+
+chenghao_zhichangyejintou.png
+size: 220,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenghao_zhichangyejintou_001
+  rotate: true
+  xy: 186, 8
+  size: 29, 16
+  orig: 31, 18
+  offset: 1, 1
+  index: -1
+chenghao_zhichangyejintou_002
+  rotate: false
+  xy: 150, 5
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+chenghao_zhichangyejintou_003
+  rotate: true
+  xy: 194, 64
+  size: 26, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+chenghao_zhichangyejintou_004
+  rotate: true
+  xy: 183, 92
+  size: 47, 21
+  orig: 49, 23
+  offset: 1, 1
+  index: -1
+chenghao_zhichangyejintou_005
+  rotate: true
+  xy: 194, 39
+  size: 23, 19
+  orig: 25, 21
+  offset: 1, 1
+  index: -1
+chenghao_zhichangyejintou_006
+  rotate: false
+  xy: 204, 12
+  size: 16, 25
+  orig: 19, 27
+  offset: 2, 1
+  index: -1
+chenghao_zhichangyejintou_007
+  rotate: true
+  xy: 0, 0
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+chenghao_zhichangyejintou_008
+  rotate: true
+  xy: 113, 87
+  size: 52, 68
+  orig: 54, 70
+  offset: 1, 1
+  index: -1
+chenghao_zhichangyejintou_009
+  rotate: false
+  xy: 93, 10
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+chenghao_zhichangyejintou_010
+  rotate: false
+  xy: 150, 39
+  size: 42, 46
+  orig: 45, 48
+  offset: 2, 1
+  index: -1
+chenghao_zhichangyejintou_011
+  rotate: false
+  xy: 0, 77
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1

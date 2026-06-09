@@ -1,0 +1,41 @@
+
+zhijianzhongqing_shu.png
+size: 1786,1240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaoxiang
+  rotate: true
+  xy: 1298, 649
+  size: 301, 363
+  orig: 302, 364
+  offset: 1, 1
+  index: -1
+shu
+  rotate: true
+  xy: 0, 0
+  size: 1240, 1296
+  orig: 1240, 1296
+  offset: 0, 0
+  index: -1
+sidai
+  rotate: true
+  xy: 1298, 952
+  size: 288, 488
+  orig: 288, 488
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 1298, 47
+  size: 354, 284
+  orig: 354, 284
+  offset: 0, 0
+  index: -1
+zhuangshi2
+  rotate: false
+  xy: 1298, 333
+  size: 326, 314
+  orig: 326, 314
+  offset: 0, 0
+  index: -1

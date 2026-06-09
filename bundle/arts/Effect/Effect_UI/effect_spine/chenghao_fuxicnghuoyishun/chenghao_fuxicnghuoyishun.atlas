@@ -1,0 +1,62 @@
+
+chenghao_fuxicnghuoyishun.png
+size: 202,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenghao_fuxinghuoyishun_011
+  rotate: false
+  xy: 173, 18
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+chenghao_fuxinghuoyishun_012
+  rotate: false
+  xy: 173, 35
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+chenghao_fuxinghuoyishun_013
+  rotate: false
+  xy: 108, 3
+  size: 63, 59
+  orig: 65, 61
+  offset: 1, 1
+  index: -1
+chenghao_fuxinghuoyishun_014
+  rotate: false
+  xy: 0, 0
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+chenghao_fuxinghuoyishun_015
+  rotate: true
+  xy: 54, 0
+  size: 53, 52
+  orig: 55, 54
+  offset: 1, 1
+  index: -1
+chenghao_fuxinghuoyishun_016
+  rotate: false
+  xy: 134, 66
+  size: 52, 76
+  orig: 52, 85
+  offset: 0, 9
+  index: -1
+chenghao_fuxinghuoyishun_017
+  rotate: false
+  xy: 75, 64
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+chenghao_fuxinghuoyishun_018
+  rotate: true
+  xy: 0, 55
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1

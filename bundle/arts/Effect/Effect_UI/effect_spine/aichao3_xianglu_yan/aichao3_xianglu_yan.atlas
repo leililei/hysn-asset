@@ -1,0 +1,20 @@
+
+aichao3_xianglu_yan.png
+size: 72,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aichao3_xianglu_yan1
+  rotate: false
+  xy: 0, 34
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+aichao3_xianglu_yan2
+  rotate: false
+  xy: 0, 0
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1

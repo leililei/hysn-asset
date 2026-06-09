@@ -1,0 +1,48 @@
+
+xizeer_shengri_xsynzhijianzhongqing.png
+size: 695,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjzq_rukou_03
+  rotate: true
+  xy: 663, 213
+  size: 93, 32
+  orig: 98, 36
+  offset: 3, 2
+  index: -1
+zjzq_rukou_04
+  rotate: false
+  xy: 512, 29
+  size: 96, 92
+  orig: 102, 98
+  offset: 3, 3
+  index: -1
+zjzq_rukou_05
+  rotate: true
+  xy: 388, 0
+  size: 121, 122
+  orig: 128, 129
+  offset: 3, 4
+  index: -1
+zjzq_rukou_06
+  rotate: true
+  xy: 610, 52
+  size: 69, 62
+  orig: 75, 68
+  offset: 3, 3
+  index: -1
+zjzq_rukou_07
+  rotate: false
+  xy: 388, 123
+  size: 273, 183
+  orig: 273, 183
+  offset: 0, 0
+  index: -1
+zjzq_rukou_08
+  rotate: false
+  xy: 0, 5
+  size: 386, 301
+  orig: 415, 322
+  offset: 13, 9
+  index: -1

@@ -1,0 +1,34 @@
+
+zhaocaimao.png
+size: 241,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaocaimao_02_1
+  rotate: true
+  xy: 188, 45
+  size: 59, 53
+  orig: 64, 60
+  offset: 3, 4
+  index: -1
+zhaocaimao_03
+  rotate: false
+  xy: 122, 40
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zhaocaimao_04_1
+  rotate: true
+  xy: 0, 0
+  size: 104, 120
+  orig: 104, 120
+  offset: 0, 0
+  index: -1
+zhaocaimao_05
+  rotate: true
+  xy: 188, 3
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1

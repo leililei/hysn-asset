@@ -1,0 +1,41 @@
+
+qingfeizhishi_rukou.png
+size: 183,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingfeizhishi_hua1
+  rotate: false
+  xy: 0, 0
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+qingfeizhishi_hua2
+  rotate: true
+  xy: 117, 31
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+rukou_qingfeizhishi1
+  rotate: true
+  xy: 117, 6
+  size: 23, 24
+  orig: 28, 28
+  offset: 4, 0
+  index: -1
+rukou_qingfeizhishi2
+  rotate: false
+  xy: 143, 6
+  size: 23, 23
+  orig: 28, 28
+  offset: 5, 0
+  index: -1
+rukou_qingfeizhishi3
+  rotate: true
+  xy: 168, 12
+  size: 17, 15
+  orig: 20, 20
+  offset: 2, 3
+  index: -1

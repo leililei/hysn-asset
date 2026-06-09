@@ -1,0 +1,139 @@
+
+jiyin_chouka.png
+size: 900,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiyin_chouka1_geng
+  rotate: false
+  xy: 293, 190
+  size: 231, 149
+  orig: 231, 149
+  offset: 0, 0
+  index: -1
+jiyin_chouka1_huaban1
+  rotate: true
+  xy: 529, 9
+  size: 63, 159
+  orig: 63, 159
+  offset: 0, 0
+  index: -1
+jiyin_chouka1_huaban2
+  rotate: true
+  xy: 296, 0
+  size: 37, 217
+  orig: 37, 217
+  offset: 0, 0
+  index: -1
+jiyin_chouka1_huaban3
+  rotate: false
+  xy: 618, 699
+  size: 263, 317
+  orig: 263, 317
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_geng
+  rotate: false
+  xy: 296, 39
+  size: 231, 149
+  orig: 231, 149
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban1
+  rotate: false
+  xy: 718, 17
+  size: 138, 104
+  orig: 138, 104
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban10
+  rotate: false
+  xy: 529, 120
+  size: 186, 83
+  orig: 186, 83
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban11
+  rotate: false
+  xy: 529, 74
+  size: 187, 44
+  orig: 187, 44
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban12
+  rotate: true
+  xy: 611, 285
+  size: 83, 196
+  orig: 83, 196
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban2
+  rotate: false
+  xy: 611, 370
+  size: 289, 300
+  orig: 289, 300
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban3
+  rotate: false
+  xy: 280, 672
+  size: 336, 344
+  orig: 336, 344
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban4
+  rotate: true
+  xy: 802, 123
+  size: 127, 96
+  orig: 127, 96
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban5
+  rotate: true
+  xy: 0, 175
+  size: 353, 291
+  orig: 353, 291
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban6
+  rotate: true
+  xy: 809, 252
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban7
+  rotate: true
+  xy: 293, 341
+  size: 329, 316
+  orig: 329, 316
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban8
+  rotate: true
+  xy: 720, 189
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+jiyin_chouka2_huaban9
+  rotate: true
+  xy: 526, 205
+  size: 78, 192
+  orig: 78, 192
+  offset: 0, 0
+  index: -1
+jiyin_chouka_ye1
+  rotate: false
+  xy: 0, 530
+  size: 278, 486
+  orig: 278, 486
+  offset: 0, 0
+  index: -1
+jiyin_chouka_ye2
+  rotate: false
+  xy: 0, 3
+  size: 294, 170
+  orig: 294, 170
+  offset: 0, 0
+  index: -1

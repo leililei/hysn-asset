@@ -1,0 +1,27 @@
+
+mianguang_UR_youhudie.png
+size: 336,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youhudie
+  rotate: false
+  xy: 0, 0
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+youhudie_wei1
+  rotate: false
+  xy: 166, 2
+  size: 170, 69
+  orig: 180, 69
+  offset: 0, 0
+  index: -1
+youhudie_wei2
+  rotate: false
+  xy: 166, 73
+  size: 170, 73
+  orig: 211, 73
+  offset: 9, 0
+  index: -1

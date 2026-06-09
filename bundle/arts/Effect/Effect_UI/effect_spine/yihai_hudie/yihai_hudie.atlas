@@ -1,0 +1,48 @@
+
+yihai_hudie.png
+size: 724,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban1
+  rotate: false
+  xy: 611, 21
+  size: 62, 52
+  orig: 68, 68
+  offset: 3, 8
+  index: -1
+huaban2
+  rotate: false
+  xy: 675, 14
+  size: 49, 59
+  orig: 64, 64
+  offset: 7, 2
+  index: -1
+hy_YHzhujiemian_flower_01
+  rotate: true
+  xy: 0, 0
+  size: 245, 461
+  orig: 245, 461
+  offset: 0, 0
+  index: -1
+youhudie
+  rotate: true
+  xy: 463, 6
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+youhudie_wei1
+  rotate: true
+  xy: 635, 75
+  size: 170, 69
+  orig: 180, 69
+  offset: 0, 0
+  index: -1
+youhudie_wei2
+  rotate: false
+  xy: 463, 172
+  size: 170, 73
+  orig: 211, 73
+  offset: 9, 0
+  index: -1

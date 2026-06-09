@@ -1,0 +1,27 @@
+
+juqing_dakaidamen.png
+size: 1890,1319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dakai_liangguang2
+  rotate: false
+  xy: 0, 0
+  size: 1080, 226
+  orig: 1080, 244
+  offset: 0, 0
+  index: -1
+men1
+  rotate: true
+  xy: 0, 774
+  size: 545, 1890
+  orig: 545, 1890
+  offset: 0, 0
+  index: -1
+men2
+  rotate: true
+  xy: 0, 228
+  size: 544, 1890
+  orig: 546, 1890
+  offset: 1, 0
+  index: -1

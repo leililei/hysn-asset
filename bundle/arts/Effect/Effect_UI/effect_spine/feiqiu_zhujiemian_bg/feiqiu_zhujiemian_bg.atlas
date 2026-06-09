@@ -1,0 +1,139 @@
+
+feiqiu_zhujiemian_bg.png
+size: 1799,835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiqiu_zhujiemian_001
+  rotate: true
+  xy: 1440, 16
+  size: 81, 88
+  orig: 83, 90
+  offset: 1, 1
+  index: -1
+feiqiu_zhujiemian_002
+  rotate: true
+  xy: 1351, 15
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_003
+  rotate: false
+  xy: 521, 190
+  size: 406, 350
+  orig: 406, 350
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_006
+  rotate: false
+  xy: 1582, 66
+  size: 179, 205
+  orig: 179, 205
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_007
+  rotate: false
+  xy: 1605, 273
+  size: 194, 562
+  orig: 194, 562
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_008
+  rotate: true
+  xy: 1351, 99
+  size: 112, 229
+  orig: 114, 231
+  offset: 1, 1
+  index: -1
+feiqiu_zhujiemian_009
+  rotate: false
+  xy: 1379, 213
+  size: 201, 327
+  orig: 201, 327
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_010
+  rotate: true
+  xy: 929, 17
+  size: 314, 420
+  orig: 314, 420
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_011
+  rotate: true
+  xy: 1530, 0
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_012
+  rotate: false
+  xy: 806, 54
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_013
+  rotate: false
+  xy: 929, 333
+  size: 448, 207
+  orig: 450, 209
+  offset: 1, 1
+  index: -1
+feiqiu_zhujiemian_014
+  rotate: false
+  xy: 1607, 4
+  size: 79, 60
+  orig: 81, 62
+  offset: 1, 1
+  index: -1
+feiqiu_zhujiemian_015
+  rotate: false
+  xy: 521, 542
+  size: 1082, 293
+  orig: 1082, 293
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_016
+  rotate: false
+  xy: 0, 1
+  size: 247, 224
+  orig: 247, 224
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_017
+  rotate: false
+  xy: 0, 227
+  size: 490, 186
+  orig: 492, 188
+  offset: 1, 1
+  index: -1
+feiqiu_zhujiemian_018
+  rotate: false
+  xy: 1688, 34
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_019
+  rotate: false
+  xy: 0, 415
+  size: 519, 420
+  orig: 519, 420
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_021
+  rotate: false
+  xy: 514, 36
+  size: 290, 152
+  orig: 290, 152
+  offset: 0, 0
+  index: -1
+feiqiu_zhujiemian_022
+  rotate: true
+  xy: 249, 18
+  size: 207, 263
+  orig: 207, 263
+  offset: 0, 0
+  index: -1

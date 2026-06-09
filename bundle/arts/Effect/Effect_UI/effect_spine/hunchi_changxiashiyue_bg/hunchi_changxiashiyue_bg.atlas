@@ -1,0 +1,104 @@
+
+hunchi_changxiashiyue_bg.png
+size: 1458,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hunchi_changxiahuashi_deng1
+  rotate: false
+  xy: 1000, 124
+  size: 458, 654
+  orig: 458, 654
+  offset: 0, 0
+  index: -1
+hunchi_changxiahuashi_deng2
+  rotate: false
+  xy: 542, 47
+  size: 326, 279
+  orig: 326, 279
+  offset: 0, 0
+  index: -1
+hunchi_changxiahuashi_guang
+  rotate: false
+  xy: 0, 0
+  size: 540, 326
+  orig: 540, 424
+  offset: 0, 98
+  index: -1
+hunchi_changxiahuashi_huaba10
+  rotate: false
+  xy: 542, 10
+  size: 84, 35
+  orig: 86, 37
+  offset: 1, 1
+  index: -1
+hunchi_changxiahuashi_huaban1
+  rotate: false
+  xy: 870, 169
+  size: 116, 157
+  orig: 122, 167
+  offset: 1, 5
+  index: -1
+hunchi_changxiahuashi_huaban2
+  rotate: true
+  xy: 870, 32
+  size: 135, 83
+  orig: 152, 92
+  offset: 8, 1
+  index: -1
+hunchi_changxiahuashi_huaban3
+  rotate: true
+  xy: 1050, 44
+  size: 78, 85
+  orig: 89, 96
+  offset: 6, 6
+  index: -1
+hunchi_changxiahuashi_huaban4
+  rotate: true
+  xy: 955, 50
+  size: 72, 93
+  orig: 78, 100
+  offset: 3, 3
+  index: -1
+hunchi_changxiahuashi_huaban5
+  rotate: true
+  xy: 628, 21
+  size: 24, 36
+  orig: 26, 38
+  offset: 1, 1
+  index: -1
+hunchi_changxiahuashi_huaban6
+  rotate: false
+  xy: 1234, 75
+  size: 67, 47
+  orig: 74, 53
+  offset: 4, 3
+  index: -1
+hunchi_changxiahuashi_huaban7
+  rotate: true
+  xy: 955, 125
+  size: 42, 31
+  orig: 44, 33
+  offset: 1, 1
+  index: -1
+hunchi_changxiahuashi_huaban8
+  rotate: false
+  xy: 1303, 76
+  size: 68, 46
+  orig: 70, 48
+  offset: 1, 1
+  index: -1
+hunchi_changxiahuashi_huaban9
+  rotate: false
+  xy: 1137, 64
+  size: 95, 58
+  orig: 98, 61
+  offset: 2, 2
+  index: -1
+hunchi_changxiahuashi_sha
+  rotate: true
+  xy: 0, 328
+  size: 450, 998
+  orig: 450, 998
+  offset: 0, 0
+  index: -1

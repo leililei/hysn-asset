@@ -1,0 +1,41 @@
+
+xunjitilan_mao.png
+size: 551,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao_yan1
+  rotate: false
+  xy: 491, 80
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+mao_yan2
+  rotate: true
+  xy: 412, 11
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+mao_yan3
+  rotate: true
+  xy: 412, 139
+  size: 172, 139
+  orig: 175, 141
+  offset: 2, 1
+  index: -1
+mao_yan4
+  rotate: false
+  xy: 0, 0
+  size: 410, 311
+  orig: 410, 311
+  offset: 0, 0
+  index: -1
+mao_yan5
+  rotate: false
+  xy: 412, 53
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1

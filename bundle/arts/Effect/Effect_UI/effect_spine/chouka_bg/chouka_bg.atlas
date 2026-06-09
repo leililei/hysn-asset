@@ -1,0 +1,97 @@
+
+chouka_bg.png
+size: 1923,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouka_hudie3
+  rotate: true
+  xy: 279, 1
+  size: 245, 165
+  orig: 245, 165
+  offset: 0, 0
+  index: -1
+chouka_hudie4
+  rotate: false
+  xy: 0, 21
+  size: 277, 225
+  orig: 288, 237
+  offset: 6, 7
+  index: -1
+chouka_hudie5
+  rotate: false
+  xy: 446, 46
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+qianhua1
+  rotate: false
+  xy: 1568, 0
+  size: 355, 411
+  orig: 355, 411
+  offset: 0, 0
+  index: -1
+qianhua10
+  rotate: false
+  xy: 1219, 115
+  size: 347, 490
+  orig: 347, 490
+  offset: 0, 0
+  index: -1
+qianhua2
+  rotate: true
+  xy: 764, 33
+  size: 402, 453
+  orig: 402, 453
+  offset: 0, 0
+  index: -1
+qianhua3
+  rotate: true
+  xy: 1174, 607
+  size: 553, 451
+  orig: 666, 612
+  offset: 0, 0
+  index: -1
+qianhua4
+  rotate: true
+  xy: 560, 437
+  size: 723, 612
+  orig: 723, 612
+  offset: 0, 0
+  index: -1
+qianhua5
+  rotate: true
+  xy: 560, 283
+  size: 152, 202
+  orig: 152, 202
+  offset: 0, 0
+  index: -1
+qianhua6
+  rotate: false
+  xy: 1627, 775
+  size: 294, 385
+  orig: 294, 385
+  offset: 0, 0
+  index: -1
+qianhua7
+  rotate: true
+  xy: 1627, 413
+  size: 360, 291
+  orig: 360, 291
+  offset: 0, 0
+  index: -1
+qianhua8
+  rotate: false
+  xy: 0, 248
+  size: 558, 912
+  orig: 558, 912
+  offset: 0, 0
+  index: -1
+qianhua9
+  rotate: false
+  xy: 644, 16
+  size: 99, 265
+  orig: 99, 265
+  offset: 0, 0
+  index: -1

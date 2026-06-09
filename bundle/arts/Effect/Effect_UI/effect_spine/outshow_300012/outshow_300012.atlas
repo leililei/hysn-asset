@@ -1,0 +1,20 @@
+
+outshow_300012.png
+size: 124,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuzhouzhenli_zhi1
+  rotate: false
+  xy: 67, 0
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+yuzhouzhenli_zhi2
+  rotate: true
+  xy: 0, 0
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1

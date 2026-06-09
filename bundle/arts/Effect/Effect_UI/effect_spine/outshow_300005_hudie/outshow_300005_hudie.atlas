@@ -1,0 +1,20 @@
+
+outshow_300005_hudie.png
+size: 88,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+outshow_200005_hudie2
+  rotate: false
+  xy: 0, 0
+  size: 51, 51
+  orig: 62, 59
+  offset: 6, 2
+  index: -1
+outshow_200005_hudie3
+  rotate: true
+  xy: 53, 13
+  size: 38, 35
+  orig: 46, 43
+  offset: 5, 2
+  index: -1

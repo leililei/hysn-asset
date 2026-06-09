@@ -1,0 +1,55 @@
+
+7_11.png
+size: 218,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_11_bao
+  rotate: true
+  xy: 108, 12
+  size: 48, 41
+  orig: 52, 45
+  offset: 2, 2
+  index: -1
+7_11_che
+  rotate: false
+  xy: 0, 0
+  size: 106, 60
+  orig: 110, 64
+  offset: 2, 2
+  index: -1
+7_11_lun1
+  rotate: false
+  xy: 151, 27
+  size: 33, 33
+  orig: 36, 35
+  offset: 1, 1
+  index: -1
+7_11_lun2
+  rotate: true
+  xy: 186, 27
+  size: 33, 32
+  orig: 36, 36
+  offset: 1, 2
+  index: -1
+7_11_xing1
+  rotate: false
+  xy: 151, 4
+  size: 21, 21
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+7_11_xing2
+  rotate: false
+  xy: 174, 5
+  size: 19, 20
+  orig: 24, 24
+  offset: 2, 3
+  index: -1
+7_11_xing3
+  rotate: false
+  xy: 195, 9
+  size: 16, 16
+  orig: 20, 21
+  offset: 2, 3
+  index: -1

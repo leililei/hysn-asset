@@ -1,0 +1,13 @@
+
+xinghezhuyue_shui.png
+size: 384,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui
+  rotate: false
+  xy: 0, 0
+  size: 384, 64
+  orig: 384, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+chunjie_licainafu_deng.png
+size: 390,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong3
+  rotate: false
+  xy: 101, 14
+  size: 178, 185
+  orig: 204, 212
+  offset: 14, 14
+  index: -1
+denglong4
+  rotate: true
+  xy: 0, 0
+  size: 199, 99
+  orig: 205, 99
+  offset: 6, 0
+  index: -1
+denglong5
+  rotate: true
+  xy: 281, 71
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1

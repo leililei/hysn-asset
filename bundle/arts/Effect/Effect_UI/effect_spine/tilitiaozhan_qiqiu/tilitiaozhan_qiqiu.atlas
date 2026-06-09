@@ -1,0 +1,34 @@
+
+tilitiaozhan_qiqiu.png
+size: 1265,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_tilitiaozhan_oran_02
+  rotate: true
+  xy: 0, 0
+  size: 240, 504
+  orig: 240, 504
+  offset: 0, 0
+  index: -1
+tilitiaozhan_qiqiu1
+  rotate: false
+  xy: 1077, 36
+  size: 188, 204
+  orig: 188, 204
+  offset: 0, 0
+  index: -1
+tilitiaozhan_qiqiu2
+  rotate: false
+  xy: 800, 48
+  size: 275, 192
+  orig: 288, 192
+  offset: 0, 0
+  index: -1
+tilitiaozhan_qiqiu3
+  rotate: true
+  xy: 506, 24
+  size: 216, 292
+  orig: 216, 292
+  offset: 0, 0
+  index: -1

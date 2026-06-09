@@ -1,0 +1,230 @@
+
+muchunerxing_bg.png
+size: 874,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lunzu_zhuan
+  rotate: false
+  xy: 427, 14
+  size: 38, 38
+  orig: 64, 64
+  offset: 13, 13
+  index: -1
+lunzu_zhuan2
+  rotate: false
+  xy: 368, 6
+  size: 57, 46
+  orig: 64, 64
+  offset: 0, 8
+  index: -1
+muchunerxing_che_01
+  rotate: false
+  xy: 732, 268
+  size: 72, 64
+  orig: 75, 66
+  offset: 2, 1
+  index: -1
+muchunerxing_che_02
+  rotate: true
+  xy: 806, 268
+  size: 64, 68
+  orig: 66, 72
+  offset: 1, 2
+  index: -1
+muchunerxing_che_03
+  rotate: false
+  xy: 668, 343
+  size: 62, 60
+  orig: 64, 62
+  offset: 1, 0
+  index: -1
+muchunerxing_che_04
+  rotate: false
+  xy: 813, 107
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 0
+  index: -1
+muchunerxing_che_05
+  rotate: false
+  xy: 0, 141
+  size: 279, 198
+  orig: 281, 200
+  offset: 1, 1
+  index: -1
+muchunerxing_che_06
+  rotate: false
+  xy: 361, 323
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+muchunerxing_che_07
+  rotate: true
+  xy: 748, 0
+  size: 34, 26
+  orig: 34, 27
+  offset: 0, 1
+  index: -1
+muchunerxing_che_08
+  rotate: false
+  xy: 776, 0
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+muchunerxing_che_09
+  rotate: false
+  xy: 361, 305
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+muchunerxing_che_10
+  rotate: false
+  xy: 467, 34
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+muchunerxing_che_11
+  rotate: false
+  xy: 144, 4
+  size: 45, 40
+  orig: 47, 42
+  offset: 1, 1
+  index: -1
+muchunerxing_che_12
+  rotate: false
+  xy: 748, 103
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+muchunerxing_che_13
+  rotate: false
+  xy: 281, 54
+  size: 272, 186
+  orig: 274, 188
+  offset: 1, 1
+  index: -1
+muchunerxing_che_14
+  rotate: false
+  xy: 668, 281
+  size: 62, 60
+  orig: 64, 63
+  offset: 1, 1
+  index: -1
+muchunerxing_che_15
+  rotate: false
+  xy: 383, 242
+  size: 283, 161
+  orig: 285, 163
+  offset: 1, 1
+  index: -1
+muchunerxing_che_bao1
+  rotate: false
+  xy: 144, 46
+  size: 124, 93
+  orig: 127, 96
+  offset: 1, 1
+  index: -1
+muchunerxing_che_bao2
+  rotate: false
+  xy: 748, 169
+  size: 110, 97
+  orig: 113, 100
+  offset: 1, 1
+  index: -1
+muchunerxing_che_weiqi
+  rotate: true
+  xy: 323, 0
+  size: 52, 43
+  orig: 54, 45
+  offset: 1, 1
+  index: -1
+muchunerxing_che_xing
+  rotate: true
+  xy: 270, 0
+  size: 52, 51
+  orig: 55, 53
+  offset: 1, 1
+  index: -1
+muchunerxing_che_xing1
+  rotate: false
+  xy: 191, 13
+  size: 28, 31
+  orig: 31, 34
+  offset: 2, 2
+  index: -1
+muchunerxing_che_xing2
+  rotate: true
+  xy: 668, 242
+  size: 37, 50
+  orig: 40, 53
+  offset: 1, 2
+  index: -1
+muchunerxing_fengche
+  rotate: true
+  xy: 0, 0
+  size: 139, 142
+  orig: 148, 148
+  offset: 4, 3
+  index: -1
+muchunerxing_hua1
+  rotate: false
+  xy: 0, 341
+  size: 381, 182
+  orig: 383, 184
+  offset: 1, 1
+  index: -1
+muchunerxing_hua2
+  rotate: false
+  xy: 555, 19
+  size: 191, 221
+  orig: 191, 221
+  offset: 0, 0
+  index: -1
+muchunerxing_lupai_lubiao
+  rotate: true
+  xy: 732, 334
+  size: 189, 123
+  orig: 192, 127
+  offset: 1, 2
+  index: -1
+muchunerxing_lupai_pai
+  rotate: true
+  xy: 383, 405
+  size: 118, 347
+  orig: 120, 349
+  offset: 1, 1
+  index: -1
+muchunerxing_lupai_shen
+  rotate: false
+  xy: 748, 36
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+muchunerxing_lupai_shou
+  rotate: false
+  xy: 281, 244
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+muchunerxing_lupai_tou
+  rotate: false
+  xy: 281, 273
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+muchunerxing_lupai_yan
+  rotate: false
+  xy: 191, 0
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1

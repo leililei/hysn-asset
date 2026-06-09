@@ -1,0 +1,27 @@
+
+mijingzhencang_hua.png
+size: 1617,862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mijingzhencang_hua1
+  rotate: true
+  xy: 1097, 0
+  size: 862, 520
+  orig: 862, 520
+  offset: 0, 0
+  index: -1
+mijingzhencang_hua1you
+  rotate: true
+  xy: 0, 26
+  size: 401, 904
+  orig: 401, 904
+  offset: 0, 0
+  index: -1
+mijingzhencang_hua1zuo
+  rotate: true
+  xy: 0, 429
+  size: 433, 1095
+  orig: 433, 1095
+  offset: 0, 0
+  index: -1

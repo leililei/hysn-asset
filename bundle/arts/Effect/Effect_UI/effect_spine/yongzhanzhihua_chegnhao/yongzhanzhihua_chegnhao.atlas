@@ -1,0 +1,62 @@
+
+yongzhanzhihua_chegnhao.png
+size: 819,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yzzh_chenghao_01
+  rotate: false
+  xy: 782, 28
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_02
+  rotate: true
+  xy: 644, 1
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_03
+  rotate: false
+  xy: 573, 0
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_04
+  rotate: false
+  xy: 725, 11
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_05
+  rotate: false
+  xy: 644, 24
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_06
+  rotate: false
+  xy: 467, 8
+  size: 104, 59
+  orig: 104, 59
+  offset: 0, 0
+  index: -1
+yzzh_chenghao_08
+  rotate: false
+  xy: 0, 7
+  size: 360, 60
+  orig: 362, 62
+  offset: 1, 1
+  index: -1
+yzzh_chenghao_09
+  rotate: false
+  xy: 362, 6
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+xinnian_jiheye_bg_qian.png
+size: 2019,1217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuyanzhedang1
+  rotate: false
+  xy: 848, 4
+  size: 426, 287
+  orig: 426, 289
+  offset: 0, 0
+  index: -1
+wuyanzhedang2
+  rotate: false
+  xy: 1410, 266
+  size: 311, 244
+  orig: 311, 244
+  offset: 0, 0
+  index: -1
+wuyanzhedang3
+  rotate: false
+  xy: 508, 10
+  size: 338, 359
+  orig: 338, 359
+  offset: 0, 0
+  index: -1
+xinnianchouka_deng1
+  rotate: false
+  xy: 1641, 859
+  size: 378, 358
+  orig: 378, 358
+  offset: 0, 0
+  index: -1
+xinnianchouka_deng11
+  rotate: false
+  xy: 893, 293
+  size: 515, 217
+  orig: 515, 217
+  offset: 0, 0
+  index: -1
+xinnianchouka_deng31111
+  rotate: false
+  xy: 1723, 235
+  size: 268, 282
+  orig: 268, 282
+  offset: 0, 0
+  index: -1
+xinnianchouka_meihua1
+  rotate: false
+  xy: 1276, 62
+  size: 364, 202
+  orig: 364, 202
+  offset: 0, 0
+  index: -1
+xinnianchouka_meihua2
+  rotate: false
+  xy: 0, 0
+  size: 506, 369
+  orig: 506, 369
+  offset: 0, 0
+  index: -1
+xinnianchouka_meihua3
+  rotate: false
+  xy: 1641, 519
+  size: 342, 338
+  orig: 342, 338
+  offset: 0, 0
+  index: -1
+xinnianchouka_meihua4
+  rotate: false
+  xy: 893, 512
+  size: 746, 705
+  orig: 746, 705
+  offset: 0, 0
+  index: -1
+xinnianchouka_qianceng
+  rotate: false
+  xy: 0, 371
+  size: 891, 846
+  orig: 893, 848
+  offset: 1, 1
+  index: -1
+xinnianchouka_shitou
+  rotate: true
+  xy: 1642, 10
+  size: 223, 241
+  orig: 228, 246
+  offset: 4, 1
+  index: -1

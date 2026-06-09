@@ -1,0 +1,76 @@
+
+aichao_yunqizhuyin_yuanchuang.png
+size: 1035,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gufeng_yuancuang_01
+  rotate: true
+  xy: 0, 0
+  size: 335, 464
+  orig: 337, 466
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_02
+  rotate: true
+  xy: 965, 154
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_03
+  rotate: false
+  xy: 957, 104
+  size: 10, 10
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_04
+  rotate: false
+  xy: 938, 133
+  size: 28, 17
+  orig: 30, 19
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_05
+  rotate: false
+  xy: 905, 90
+  size: 50, 23
+  orig: 52, 25
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_06
+  rotate: true
+  xy: 905, 115
+  size: 55, 31
+  orig: 58, 33
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_07
+  rotate: false
+  xy: 938, 116
+  size: 25, 15
+  orig: 27, 17
+  offset: 1, 1
+  index: -1
+gufeng_yuancuang_08
+  rotate: false
+  xy: 938, 152
+  size: 25, 18
+  orig: 27, 21
+  offset: 1, 2
+  index: -1
+gufeng_yuancuang_09
+  rotate: true
+  xy: 905, 172
+  size: 163, 130
+  orig: 163, 130
+  offset: 0, 0
+  index: -1
+gufeng_yuancuang_10
+  rotate: true
+  xy: 466, 38
+  size: 297, 437
+  orig: 299, 439
+  offset: 1, 1
+  index: -1

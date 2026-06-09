@@ -1,0 +1,27 @@
+
+niudan_hudiejie.png
+size: 746,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudiejie
+  rotate: true
+  xy: 496, 216
+  size: 598, 250
+  orig: 598, 250
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: true
+  xy: 0, 0
+  size: 406, 494
+  orig: 406, 494
+  offset: 0, 0
+  index: -1
+hudiejie2
+  rotate: true
+  xy: 0, 408
+  size: 406, 494
+  orig: 406, 494
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+ur_tequan_jiyin.png
+size: 913,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai_01
+  rotate: true
+  xy: 332, 103
+  size: 106, 97
+  orig: 118, 110
+  offset: 5, 5
+  index: -1
+caidai_02
+  rotate: true
+  xy: 94, 10
+  size: 77, 97
+  orig: 95, 115
+  offset: 9, 9
+  index: -1
+caidai_03
+  rotate: true
+  xy: 431, 129
+  size: 80, 76
+  orig: 92, 86
+  offset: 6, 5
+  index: -1
+caidai_04
+  rotate: false
+  xy: 445, 36
+  size: 68, 70
+  orig: 80, 82
+  offset: 5, 6
+  index: -1
+caidai_05
+  rotate: false
+  xy: 515, 7
+  size: 61, 61
+  orig: 75, 73
+  offset: 7, 6
+  index: -1
+caidai_06
+  rotate: false
+  xy: 291, 0
+  size: 80, 87
+  orig: 92, 104
+  offset: 5, 9
+  index: -1
+caidai_07
+  rotate: true
+  xy: 509, 138
+  size: 71, 69
+  orig: 82, 81
+  offset: 6, 6
+  index: -1
+caidai_08
+  rotate: false
+  xy: 773, 14
+  size: 66, 69
+  orig: 78, 82
+  offset: 5, 7
+  index: -1
+caidai_09
+  rotate: true
+  xy: 515, 70
+  size: 66, 62
+  orig: 80, 73
+  offset: 7, 6
+  index: -1
+hy_hesuitequan_orna_01
+  rotate: true
+  xy: 598, 244
+  size: 281, 276
+  orig: 282, 276
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02
+  rotate: false
+  xy: 0, 89
+  size: 330, 436
+  orig: 338, 436
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02_1
+  rotate: true
+  xy: 0, 4
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02_2
+  rotate: false
+  xy: 431, 108
+  size: 82, 19
+  orig: 86, 21
+  offset: 1, 0
+  index: -1
+hy_hesuitequan_orna_02_3
+  rotate: false
+  xy: 193, 13
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02_4
+  rotate: false
+  xy: 445, 11
+  size: 66, 23
+  orig: 70, 23
+  offset: 3, 0
+  index: -1
+hy_hesuitequan_orna_02_5
+  rotate: false
+  xy: 841, 10
+  size: 40, 73
+  orig: 40, 74
+  offset: 0, 1
+  index: -1
+hy_hesuitequan_orna_02_6
+  rotate: true
+  xy: 373, 4
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02_7
+  rotate: false
+  xy: 773, 85
+  size: 140, 157
+  orig: 140, 157
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_03
+  rotate: true
+  xy: 332, 211
+  size: 314, 264
+  orig: 314, 264
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_04
+  rotate: false
+  xy: 580, 17
+  size: 191, 192
+  orig: 234, 244
+  offset: 21, 26
+  index: -1

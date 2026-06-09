@@ -1,0 +1,27 @@
+
+muchunerxing_niao.png
+size: 172,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muchunerxing_yanzi1
+  rotate: true
+  xy: 81, 0
+  size: 46, 51
+  orig: 60, 51
+  offset: 5, 0
+  index: -1
+muchunerxing_yanzi2
+  rotate: false
+  xy: 0, 0
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+muchunerxing_yanzi3
+  rotate: false
+  xy: 134, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1

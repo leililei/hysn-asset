@@ -1,0 +1,20 @@
+
+nianzhirufan_shangdian.png
+size: 569,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun
+  rotate: false
+  xy: 0, 0
+  size: 363, 188
+  orig: 372, 188
+  offset: 9, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 365, 7
+  size: 204, 181
+  orig: 204, 181
+  offset: 0, 0
+  index: -1

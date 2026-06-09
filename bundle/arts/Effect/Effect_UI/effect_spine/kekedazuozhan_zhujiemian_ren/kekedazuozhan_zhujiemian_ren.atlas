@@ -1,0 +1,83 @@
+
+kekedazuozhan_zhujiemian_ren.png
+size: 1459,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kekedazuozhan_ren_1
+  rotate: false
+  xy: 651, 98
+  size: 375, 306
+  orig: 375, 306
+  offset: 0, 0
+  index: -1
+kekedazuozhan_ren_10
+  rotate: true
+  xy: 1287, 178
+  size: 226, 172
+  orig: 226, 188
+  offset: 0, 16
+  index: -1
+kekedazuozhan_ren_11
+  rotate: false
+  xy: 934, 25
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+kekedazuozhan_ren_2
+  rotate: false
+  xy: 826, 15
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+kekedazuozhan_ren_3
+  rotate: false
+  xy: 1028, 159
+  size: 257, 245
+  orig: 268, 258
+  offset: 2, 9
+  index: -1
+kekedazuozhan_ren_4
+  rotate: true
+  xy: 1375, 73
+  size: 103, 62
+  orig: 105, 64
+  offset: 1, 1
+  index: -1
+kekedazuozhan_ren_5
+  rotate: false
+  xy: 1375, 1
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+kekedazuozhan_ren_6
+  rotate: true
+  xy: 1028, 16
+  size: 141, 219
+  orig: 143, 221
+  offset: 1, 1
+  index: -1
+kekedazuozhan_ren_7
+  rotate: false
+  xy: 1249, 27
+  size: 124, 130
+  orig: 126, 132
+  offset: 1, 1
+  index: -1
+kekedazuozhan_ren_8
+  rotate: true
+  xy: 651, 10
+  size: 86, 173
+  orig: 92, 173
+  offset: 6, 0
+  index: -1
+kekedazuozhan_ren_9
+  rotate: false
+  xy: 0, 0
+  size: 649, 404
+  orig: 651, 406
+  offset: 1, 1
+  index: -1

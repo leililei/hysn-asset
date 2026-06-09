@@ -1,0 +1,62 @@
+
+jixiafengwuyu_rukou.png
+size: 96,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jixiafengwuyu_01
+  rotate: false
+  xy: 69, 207
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+jixiafengwuyu_02
+  rotate: true
+  xy: 0, 219
+  size: 8, 13
+  orig: 10, 15
+  offset: 1, 1
+  index: -1
+jixiafengwuyu_03
+  rotate: false
+  xy: 15, 217
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+jixiafengwuyu_04
+  rotate: false
+  xy: 49, 209
+  size: 18, 18
+  orig: 22, 22
+  offset: 2, 2
+  index: -1
+jixiafengwuyu_05
+  rotate: false
+  xy: 29, 210
+  size: 18, 17
+  orig: 20, 21
+  offset: 1, 2
+  index: -1
+jixiafengwuyu_06
+  rotate: true
+  xy: 0, 90
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+jixiafengwuyu_07
+  rotate: true
+  xy: 0, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+jixiafengwuyu_08
+  rotate: false
+  xy: 0, 166
+  size: 81, 39
+  orig: 85, 42
+  offset: 2, 1
+  index: -1

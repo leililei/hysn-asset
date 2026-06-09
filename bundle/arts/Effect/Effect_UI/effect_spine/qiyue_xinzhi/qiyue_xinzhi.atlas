@@ -1,0 +1,20 @@
+
+qiyue_xinzhi.png
+size: 1729,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhi1
+  rotate: false
+  xy: 0, 0
+  size: 960, 1282
+  orig: 969, 1289
+  offset: 5, 4
+  index: -1
+zhi2
+  rotate: false
+  xy: 962, 62
+  size: 767, 1220
+  orig: 767, 1220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+tangguoniudan.png
+size: 240,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xing01
+  rotate: false
+  xy: 213, 59
+  size: 18, 18
+  orig: 24, 24
+  offset: 3, 3
+  index: -1
+xing02
+  rotate: false
+  xy: 213, 39
+  size: 18, 18
+  orig: 24, 24
+  offset: 3, 3
+  index: -1
+xing03
+  rotate: false
+  xy: 213, 79
+  size: 27, 27
+  orig: 33, 33
+  offset: 3, 3
+  index: -1
+xing04
+  rotate: true
+  xy: 121, 0
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+xing05
+  rotate: false
+  xy: 0, 0
+  size: 119, 106
+  orig: 124, 113
+  offset: 1, 4
+  index: -1

@@ -1,0 +1,76 @@
+
+shejiexunchun_tou.png
+size: 368,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shejiexunchun_tou_01
+  rotate: false
+  xy: 153, 0
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_02
+  rotate: true
+  xy: 153, 20
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_03
+  rotate: true
+  xy: 268, 108
+  size: 49, 96
+  orig: 49, 96
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_04
+  rotate: true
+  xy: 268, 42
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_05
+  rotate: false
+  xy: 347, 70
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_06
+  rotate: false
+  xy: 340, 5
+  size: 22, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_07
+  rotate: false
+  xy: 153, 80
+  size: 113, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_08
+  rotate: false
+  xy: 251, 6
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_09
+  rotate: false
+  xy: 298, 5
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+shejiexunchun_tou_10
+  rotate: false
+  xy: 0, 2
+  size: 151, 155
+  orig: 168, 166
+  offset: 17, 10
+  index: -1

@@ -1,0 +1,27 @@
+
+xinshengyuni_xin1.png
+size: 912,645
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xin_04
+  rotate: false
+  xy: 0, 273
+  size: 912, 372
+  orig: 912, 372
+  offset: 0, 0
+  index: -1
+xin_05
+  rotate: true
+  xy: 0, 10
+  size: 261, 410
+  orig: 261, 410
+  offset: 0, 0
+  index: -1
+xin_06
+  rotate: true
+  xy: 412, 0
+  size: 271, 292
+  orig: 271, 292
+  offset: 0, 0
+  index: -1

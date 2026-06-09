@@ -1,0 +1,48 @@
+
+aichao_mao.png
+size: 92,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aichao_maomi_01
+  rotate: false
+  xy: 0, 0
+  size: 43, 41
+  orig: 46, 41
+  offset: 3, 0
+  index: -1
+aichao_maomi_02
+  rotate: true
+  xy: 60, 87
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+aichao_maomi_03
+  rotate: false
+  xy: 60, 114
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+aichao_maomi_04
+  rotate: true
+  xy: 0, 83
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+aichao_maomi_05
+  rotate: true
+  xy: 45, 20
+  size: 21, 46
+  orig: 24, 48
+  offset: 3, 0
+  index: -1
+aichao_maomi_06
+  rotate: false
+  xy: 0, 43
+  size: 85, 38
+  orig: 89, 42
+  offset: 2, 2
+  index: -1

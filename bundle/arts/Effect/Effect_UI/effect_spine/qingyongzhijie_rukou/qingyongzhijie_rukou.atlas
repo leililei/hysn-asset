@@ -1,0 +1,41 @@
+
+qingyongzhijie_rukou.png
+size: 265,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingyongzhijie_01
+  rotate: false
+  xy: 246, 18
+  size: 19, 19
+  orig: 25, 25
+  offset: 3, 3
+  index: -1
+qingyongzhijie_02
+  rotate: false
+  xy: 213, 8
+  size: 31, 29
+  orig: 39, 37
+  offset: 3, 5
+  index: -1
+qingyongzhijie_03
+  rotate: true
+  xy: 213, 39
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+qingyongzhijie_04
+  rotate: false
+  xy: 112, 2
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+qingyongzhijie_05
+  rotate: false
+  xy: 0, 0
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1

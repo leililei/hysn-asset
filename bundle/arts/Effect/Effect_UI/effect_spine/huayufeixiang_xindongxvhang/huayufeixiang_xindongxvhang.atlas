@@ -1,0 +1,41 @@
+
+huayufeixiang_xindongxvhang.png
+size: 1137,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_xindongxh_orna_001
+  rotate: true
+  xy: 0, 11
+  size: 343, 438
+  orig: 343, 438
+  offset: 0, 0
+  index: -1
+hy_xindongxh_orna_002
+  rotate: false
+  xy: 440, 0
+  size: 400, 354
+  orig: 400, 354
+  offset: 0, 0
+  index: -1
+hy_xindongxh_orna_003
+  rotate: false
+  xy: 842, 101
+  size: 295, 253
+  orig: 305, 262
+  offset: 0, 9
+  index: -1
+hy_xindongxh_orna_03_ye1
+  rotate: false
+  xy: 842, 16
+  size: 122, 83
+  orig: 132, 92
+  offset: 5, 5
+  index: -1
+hy_xindongxh_orna_03_ye2
+  rotate: false
+  xy: 966, 40
+  size: 66, 59
+  orig: 72, 64
+  offset: 2, 3
+  index: -1

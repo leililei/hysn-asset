@@ -1,0 +1,104 @@
+
+meiritiaozhan_ren.png
+size: 1251,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mrtz_beizi
+  rotate: true
+  xy: 1092, 141
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+mrtz_houfa
+  rotate: false
+  xy: 1052, 2
+  size: 190, 132
+  orig: 190, 132
+  offset: 0, 0
+  index: -1
+mrtz_mei1
+  rotate: true
+  xy: 1244, 253
+  size: 43, 7
+  orig: 45, 9
+  offset: 1, 1
+  index: -1
+mrtz_mei2
+  rotate: false
+  xy: 821, 0
+  size: 53, 16
+  orig: 55, 18
+  offset: 1, 1
+  index: -1
+mrtz_reqi4
+  rotate: true
+  xy: 1092, 272
+  size: 24, 144
+  orig: 24, 144
+  offset: 0, 0
+  index: -1
+mrtz_shen
+  rotate: false
+  xy: 386, 103
+  size: 195, 292
+  orig: 217, 292
+  offset: 22, 0
+  index: -1
+mrtz_shou2
+  rotate: false
+  xy: 583, 4
+  size: 236, 123
+  orig: 236, 123
+  offset: 0, 0
+  index: -1
+mrtz_shoubi1
+  rotate: false
+  xy: 998, 136
+  size: 92, 160
+  orig: 92, 160
+  offset: 0, 0
+  index: -1
+mrtz_tou
+  rotate: true
+  xy: 0, 5
+  size: 390, 384
+  orig: 392, 389
+  offset: 1, 2
+  index: -1
+mrtz_toufa1
+  rotate: true
+  xy: 583, 129
+  size: 266, 206
+  orig: 266, 206
+  offset: 0, 0
+  index: -1
+mrtz_toufa2
+  rotate: false
+  xy: 791, 132
+  size: 205, 263
+  orig: 205, 263
+  offset: 0, 0
+  index: -1
+mrtz_toufa3
+  rotate: true
+  xy: 821, 18
+  size: 112, 229
+  orig: 112, 229
+  offset: 0, 0
+  index: -1
+mrtz_yan
+  rotate: false
+  xy: 386, 1
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+mrtz_yanjing
+  rotate: false
+  xy: 998, 298
+  size: 252, 97
+  orig: 254, 99
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,69 @@
+
+yinghuafenfeishi_chenghao.png
+size: 607,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yhffs_chenghao_01
+  rotate: true
+  xy: 565, 46
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+yhffs_chenghao_02
+  rotate: true
+  xy: 42, 13
+  size: 19, 17
+  orig: 21, 19
+  offset: 1, 1
+  index: -1
+yhffs_chenghao_03
+  rotate: true
+  xy: 483, 0
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+yhffs_chenghao_04
+  rotate: true
+  xy: 22, 10
+  size: 22, 18
+  orig: 24, 20
+  offset: 1, 1
+  index: -1
+yhffs_chenghao_05
+  rotate: false
+  xy: 42, 2
+  size: 18, 9
+  orig: 20, 12
+  offset: 1, 1
+  index: -1
+yhffs_chenghao_06
+  rotate: true
+  xy: 0, 5
+  size: 27, 20
+  orig: 29, 22
+  offset: 1, 1
+  index: -1
+yhffs_chenghao_07
+  rotate: true
+  xy: 565, 4
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+yhffs_chenghao_08
+  rotate: false
+  xy: 362, 3
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+yhffs_chenghao_10
+  rotate: false
+  xy: 0, 34
+  size: 360, 60
+  orig: 362, 62
+  offset: 1, 1
+  index: -1

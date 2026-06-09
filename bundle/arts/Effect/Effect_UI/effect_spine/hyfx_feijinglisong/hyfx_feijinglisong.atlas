@@ -1,0 +1,20 @@
+
+hyfx_feijinglisong.png
+size: 884,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feijinglisong_hua1
+  rotate: true
+  xy: 0, 0
+  size: 502, 572
+  orig: 502, 572
+  offset: 0, 0
+  index: -1
+feijinglisong_hua2
+  rotate: true
+  xy: 574, 166
+  size: 336, 310
+  orig: 346, 310
+  offset: 10, 0
+  index: -1

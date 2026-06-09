@@ -1,0 +1,62 @@
+
+chenghao_tachuntongxing.png
+size: 127,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tachuntongxing_01
+  rotate: false
+  xy: 93, 58
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+tachuntongxing_02
+  rotate: true
+  xy: 56, 34
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+tachuntongxing_03
+  rotate: false
+  xy: 98, 31
+  size: 23, 25
+  orig: 25, 27
+  offset: 1, 1
+  index: -1
+tachuntongxing_04
+  rotate: false
+  xy: 56, 94
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+tachuntongxing_05
+  rotate: false
+  xy: 56, 0
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+tachuntongxing_06
+  rotate: false
+  xy: 100, 94
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+tachuntongxing_07
+  rotate: false
+  xy: 0, 4
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+tachuntongxing_08
+  rotate: true
+  xy: 0, 50
+  size: 89, 54
+  orig: 91, 56
+  offset: 1, 1
+  index: -1

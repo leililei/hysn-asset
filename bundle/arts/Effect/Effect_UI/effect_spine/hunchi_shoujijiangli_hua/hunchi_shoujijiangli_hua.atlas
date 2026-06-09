@@ -1,0 +1,20 @@
+
+hunchi_shoujijiangli_hua.png
+size: 416,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shoujijiangli_hua
+  rotate: true
+  xy: 261, 0
+  size: 149, 155
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+shoujijiangli_sidai
+  rotate: true
+  xy: 0, 29
+  size: 120, 259
+  orig: 120, 259
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+1018.png
+size: 148,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianzhuqitan_01
+  rotate: true
+  xy: 79, 10
+  size: 113, 69
+  orig: 119, 76
+  offset: 2, 4
+  index: -1
+lianzhuqitan_02
+  rotate: false
+  xy: 0, 47
+  size: 77, 76
+  orig: 82, 83
+  offset: 1, 4
+  index: -1
+lianzhuqitan_03
+  rotate: false
+  xy: 39, 0
+  size: 18, 17
+  orig: 21, 19
+  offset: 2, 1
+  index: -1
+lianzhuqitan_04
+  rotate: true
+  xy: 39, 19
+  size: 26, 25
+  orig: 31, 29
+  offset: 4, 1
+  index: -1
+lianzhuqitan_05
+  rotate: false
+  xy: 0, 11
+  size: 37, 34
+  orig: 40, 37
+  offset: 2, 1
+  index: -1
+lianzhuqitan_06
+  rotate: false
+  xy: 59, 6
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+lianzhuqitan_07
+  rotate: false
+  xy: 66, 34
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1

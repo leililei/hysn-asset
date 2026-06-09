@@ -1,0 +1,27 @@
+
+kapaipeiban_qipan_hua.png
+size: 1121,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_peiban_crush_03
+  rotate: false
+  xy: 0, 0
+  size: 380, 320
+  orig: 380, 320
+  offset: 0, 0
+  index: -1
+hy_peiban_crush_04
+  rotate: false
+  xy: 764, 12
+  size: 357, 308
+  orig: 380, 320
+  offset: 3, 0
+  index: -1
+hy_peiban_crush_05
+  rotate: false
+  xy: 382, 0
+  size: 380, 320
+  orig: 380, 320
+  offset: 0, 0
+  index: -1

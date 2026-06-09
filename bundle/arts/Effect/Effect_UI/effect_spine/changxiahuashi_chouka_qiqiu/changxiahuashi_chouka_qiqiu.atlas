@@ -1,0 +1,97 @@
+
+changxiahuashi_chouka_qiqiu.png
+size: 1120,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hunchi_qiqiu_000
+  rotate: true
+  xy: 912, 265
+  size: 87, 182
+  orig: 87, 182
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_001
+  rotate: true
+  xy: 868, 179
+  size: 84, 171
+  orig: 84, 171
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_002
+  rotate: true
+  xy: 713, 83
+  size: 95, 144
+  orig: 95, 144
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_003
+  rotate: true
+  xy: 713, 276
+  size: 84, 197
+  orig: 84, 197
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_004
+  rotate: false
+  xy: 1041, 141
+  size: 79, 122
+  orig: 79, 122
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_005
+  rotate: true
+  xy: 713, 5
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_006
+  rotate: true
+  xy: 713, 362
+  size: 116, 224
+  orig: 116, 224
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_007
+  rotate: true
+  xy: 939, 354
+  size: 124, 177
+  orig: 124, 177
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_008
+  rotate: true
+  xy: 993, 52
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_009
+  rotate: true
+  xy: 859, 7
+  size: 81, 116
+  orig: 81, 116
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_010
+  rotate: true
+  xy: 859, 90
+  size: 87, 132
+  orig: 87, 132
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_011
+  rotate: true
+  xy: 713, 180
+  size: 94, 153
+  orig: 94, 153
+  offset: 0, 0
+  index: -1
+hunchi_qiqiu_012
+  rotate: true
+  xy: 0, 0
+  size: 478, 711
+  orig: 478, 717
+  offset: 0, 6
+  index: -1

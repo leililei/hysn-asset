@@ -1,0 +1,97 @@
+
+tilitiaozhan_ren.png
+size: 1731,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erzhui
+  rotate: false
+  xy: 1580, 202
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 1613, 32
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 1529, 80
+  size: 89, 198
+  orig: 89, 198
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 1198, 35
+  size: 102, 178
+  orig: 102, 178
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 1378, 3
+  size: 139, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+faqia
+  rotate: false
+  xy: 1529, 0
+  size: 82, 78
+  orig: 84, 80
+  offset: 1, 1
+  index: -1
+hudiejie
+  rotate: true
+  xy: 1580, 271
+  size: 86, 151
+  orig: 86, 151
+  offset: 0, 0
+  index: -1
+qiancengyinying
+  rotate: false
+  xy: 415, 3
+  size: 781, 131
+  orig: 783, 133
+  offset: 1, 1
+  index: -1
+ren
+  rotate: true
+  xy: 0, 6
+  size: 351, 413
+  orig: 381, 413
+  offset: 16, 0
+  index: -1
+shou
+  rotate: true
+  xy: 1029, 139
+  size: 218, 212
+  orig: 218, 212
+  offset: 0, 0
+  index: -1
+tili1
+  rotate: true
+  xy: 1415, 171
+  size: 186, 163
+  orig: 188, 166
+  offset: 1, 1
+  index: -1
+tili2
+  rotate: true
+  xy: 1243, 144
+  size: 213, 170
+  orig: 215, 173
+  offset: 1, 2
+  index: -1
+tili3
+  rotate: false
+  xy: 415, 136
+  size: 612, 221
+  orig: 615, 223
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+aichao_penzai.png
+size: 212,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+penzai
+  rotate: false
+  xy: 0, 0
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1

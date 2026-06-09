@@ -1,0 +1,20 @@
+
+chouka_nianhuarufan_hua.png
+size: 495,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nianhuarufan_pinzhidi_01
+  rotate: true
+  xy: 366, 133
+  size: 184, 129
+  orig: 186, 142
+  offset: 1, 5
+  index: -1
+nianhuarufan_pinzhidi_02
+  rotate: false
+  xy: 0, 0
+  size: 364, 317
+  orig: 364, 317
+  offset: 0, 0
+  index: -1

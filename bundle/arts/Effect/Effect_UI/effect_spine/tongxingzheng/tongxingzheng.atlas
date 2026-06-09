@@ -1,0 +1,20 @@
+
+tongxingzheng.png
+size: 206,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_main_icon2_txz_c
+  rotate: true
+  xy: 0, 0
+  size: 120, 136
+  orig: 160, 152
+  offset: 22, 9
+  index: -1
+tongxingzheng_02
+  rotate: false
+  xy: 138, 44
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1

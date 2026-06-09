@@ -1,0 +1,27 @@
+
+QTE_mianju.png
+size: 403,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianju_maomao
+  rotate: false
+  xy: 299, 70
+  size: 102, 172
+  orig: 102, 172
+  offset: 0, 0
+  index: -1
+mianju_yumao1
+  rotate: false
+  xy: 2, 2
+  size: 208, 240
+  orig: 208, 240
+  offset: 0, 0
+  index: -1
+mianju_yumao2
+  rotate: false
+  xy: 212, 16
+  size: 85, 226
+  orig: 85, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+jincongxunmiao_deng.png
+size: 444,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_glow_000
+  rotate: false
+  xy: 355, 64
+  size: 79, 80
+  orig: 128, 128
+  offset: 24, 24
+  index: -1
+chibanag1
+  rotate: true
+  xy: 296, 3
+  size: 51, 59
+  orig: 65, 77
+  offset: 7, 9
+  index: -1
+chibanag1_mohu
+  rotate: false
+  xy: 357, 0
+  size: 55, 62
+  orig: 78, 86
+  offset: 9, 11
+  index: -1
+chibang2
+  rotate: false
+  xy: 305, 56
+  size: 48, 88
+  orig: 61, 118
+  offset: 6, 15
+  index: -1
+glow
+  rotate: true
+  xy: 109, 29
+  size: 115, 107
+  orig: 122, 115
+  offset: 6, 7
+  index: -1
+jiao1
+  rotate: false
+  xy: 159, 1
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 109, 0
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 235, 1
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 414, 29
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+shoudian
+  rotate: true
+  xy: 0, 8
+  size: 136, 107
+  orig: 136, 108
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 218, 56
+  size: 85, 88
+  orig: 87, 89
+  offset: 1, 1
+  index: -1
+yan1
+  rotate: true
+  xy: 213, 6
+  size: 21, 20
+  orig: 22, 24
+  offset: 0, 2
+  index: -1
+yan2
+  rotate: true
+  xy: 414, 6
+  size: 21, 18
+  orig: 22, 21
+  offset: 0, 2
+  index: -1

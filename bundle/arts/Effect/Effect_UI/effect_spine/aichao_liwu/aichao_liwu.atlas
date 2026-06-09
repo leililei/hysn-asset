@@ -1,0 +1,76 @@
+
+aichao_liwu.png
+size: 114,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aichao_liwu_001
+  rotate: false
+  xy: 80, 9
+  size: 22, 72
+  orig: 22, 72
+  offset: 0, 0
+  index: -1
+aichao_liwu_002
+  rotate: true
+  xy: 0, 0
+  size: 21, 76
+  orig: 21, 76
+  offset: 0, 0
+  index: -1
+aichao_liwu_003
+  rotate: false
+  xy: 0, 208
+  size: 100, 85
+  orig: 104, 87
+  offset: 2, 1
+  index: -1
+aichao_liwu_004
+  rotate: false
+  xy: 0, 295
+  size: 103, 65
+  orig: 105, 67
+  offset: 1, 1
+  index: -1
+aichao_liwu_005
+  rotate: false
+  xy: 0, 23
+  size: 78, 129
+  orig: 78, 129
+  offset: 0, 0
+  index: -1
+aichao_liwu_006
+  rotate: false
+  xy: 0, 362
+  size: 103, 89
+  orig: 105, 91
+  offset: 1, 1
+  index: -1
+aichao_liwu_007
+  rotate: true
+  xy: 84, 152
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+aichao_liwu_008
+  rotate: true
+  xy: 80, 83
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+aichao_liwu_009
+  rotate: true
+  xy: 0, 453
+  size: 73, 114
+  orig: 76, 118
+  offset: 2, 3
+  index: -1
+aichao_liwu_010
+  rotate: false
+  xy: 0, 154
+  size: 82, 52
+  orig: 90, 52
+  offset: 7, 0
+  index: -1

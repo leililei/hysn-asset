@@ -1,0 +1,27 @@
+
+hysn_wuxianhuili.png
+size: 861,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_dijinghuili_pic_01
+  rotate: true
+  xy: 0, 0
+  size: 291, 392
+  orig: 291, 409
+  offset: 0, 17
+  index: -1
+hy_dijinghuili_pic_02
+  rotate: true
+  xy: 394, 24
+  size: 267, 408
+  orig: 267, 408
+  offset: 0, 0
+  index: -1
+hy_dijinghuili_pic_02_ye
+  rotate: true
+  xy: 804, 193
+  size: 98, 57
+  orig: 112, 76
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,41 @@
+
+jixiafengwushi_mao.png
+size: 420,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jixiafeng_huaban
+  rotate: true
+  xy: 356, 494
+  size: 137, 64
+  orig: 139, 66
+  offset: 1, 1
+  index: -1
+jixiafeng_mao
+  rotate: true
+  xy: 235, 48
+  size: 143, 151
+  orig: 143, 153
+  offset: 0, 2
+  index: -1
+jixiafeng_shui1
+  rotate: true
+  xy: 235, 193
+  size: 438, 119
+  orig: 438, 119
+  offset: 0, 0
+  index: -1
+jixiafeng_shui2
+  rotate: false
+  xy: 356, 441
+  size: 58, 51
+  orig: 60, 53
+  offset: 1, 1
+  index: -1
+jixiafeng_shui3
+  rotate: true
+  xy: 0, 0
+  size: 631, 233
+  orig: 631, 233
+  offset: 0, 0
+  index: -1

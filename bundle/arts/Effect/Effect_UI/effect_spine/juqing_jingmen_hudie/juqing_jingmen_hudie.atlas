@@ -1,0 +1,118 @@
+
+juqing_jingmen_hudie.png
+size: 1561,1074
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 0, 3
+  size: 443, 1071
+  orig: 443, 1098
+  offset: 0, 27
+  index: -1
+hua2
+  rotate: true
+  xy: 817, 812
+  size: 262, 739
+  orig: 262, 739
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 817, 369
+  size: 441, 548
+  orig: 441, 548
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 445, 120
+  size: 370, 954
+  orig: 370, 973
+  offset: 0, 0
+  index: -1
+hudie1
+  rotate: false
+  xy: 445, 0
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+hudie10
+  rotate: false
+  xy: 573, 5
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+hudie11
+  rotate: true
+  xy: 1367, 349
+  size: 136, 182
+  orig: 136, 182
+  offset: 0, 0
+  index: -1
+hudie12
+  rotate: false
+  xy: 817, 99
+  size: 211, 248
+  orig: 211, 248
+  offset: 0, 0
+  index: -1
+hudie2
+  rotate: true
+  xy: 1367, 487
+  size: 163, 188
+  orig: 164, 188
+  offset: 0, 0
+  index: -1
+hudie3
+  rotate: false
+  xy: 1280, 210
+  size: 126, 137
+  orig: 127, 143
+  offset: 1, 6
+  index: -1
+hudie4
+  rotate: true
+  xy: 1030, 31
+  size: 164, 162
+  orig: 164, 167
+  offset: 0, 5
+  index: -1
+hudie5
+  rotate: false
+  xy: 1367, 652
+  size: 194, 158
+  orig: 200, 158
+  offset: 6, 0
+  index: -1
+hudie6
+  rotate: true
+  xy: 1030, 197
+  size: 170, 248
+  orig: 170, 248
+  offset: 0, 0
+  index: -1
+hudie7
+  rotate: true
+  xy: 686, 10
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+hudie8
+  rotate: false
+  xy: 1194, 40
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+hudie9
+  rotate: true
+  xy: 1408, 214
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1

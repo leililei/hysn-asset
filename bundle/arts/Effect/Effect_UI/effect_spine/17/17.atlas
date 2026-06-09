@@ -1,0 +1,27 @@
+
+17.png
+size: 152,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+matou
+  rotate: false
+  xy: 0, 0
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 128, 87
+  size: 26, 24
+  orig: 29, 28
+  offset: 2, 2
+  index: -1
+xing2
+  rotate: false
+  xy: 128, 68
+  size: 17, 17
+  orig: 18, 18
+  offset: 1, 1
+  index: -1

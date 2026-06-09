@@ -1,0 +1,146 @@
+
+shushubaozang_ku.png
+size: 564,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuboshu_bi1
+  rotate: false
+  xy: 435, 93
+  size: 42, 77
+  orig: 44, 79
+  offset: 1, 1
+  index: -1
+tuboshu_er1
+  rotate: true
+  xy: 373, 91
+  size: 62, 60
+  orig: 64, 62
+  offset: 1, 1
+  index: -1
+tuboshu_er2
+  rotate: false
+  xy: 514, 128
+  size: 50, 46
+  orig: 52, 49
+  offset: 1, 2
+  index: -1
+tuboshu_jiaao2
+  rotate: true
+  xy: 468, 39
+  size: 52, 28
+  orig: 54, 30
+  offset: 1, 1
+  index: -1
+tuboshu_jiao1
+  rotate: false
+  xy: 486, 176
+  size: 70, 27
+  orig: 72, 28
+  offset: 1, 1
+  index: -1
+tuboshu_lei1
+  rotate: false
+  xy: 479, 119
+  size: 33, 51
+  orig: 35, 53
+  offset: 1, 1
+  index: -1
+tuboshu_lei2
+  rotate: true
+  xy: 468, 0
+  size: 37, 35
+  orig: 39, 37
+  offset: 1, 1
+  index: -1
+tuboshu_lei3
+  rotate: false
+  xy: 479, 99
+  size: 29, 18
+  orig: 46, 31
+  offset: 8, 5
+  index: -1
+tuboshu_shen
+  rotate: false
+  xy: 0, 77
+  size: 324, 315
+  orig: 324, 315
+  offset: 0, 0
+  index: -1
+tuboshu_shou1
+  rotate: false
+  xy: 498, 49
+  size: 40, 44
+  orig: 50, 46
+  offset: 9, 1
+  index: -1
+tuboshu_shou2
+  rotate: true
+  xy: 326, 155
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+tuboshu_shui
+  rotate: false
+  xy: 0, 2
+  size: 380, 73
+  orig: 382, 75
+  offset: 1, 1
+  index: -1
+tuboshu_wei
+  rotate: true
+  xy: 326, 77
+  size: 76, 45
+  orig: 78, 47
+  offset: 1, 1
+  index: -1
+tuboshu_xinsui
+  rotate: true
+  xy: 382, 1
+  size: 88, 84
+  orig: 90, 87
+  offset: 1, 2
+  index: -1
+tuboshu_xv1
+  rotate: false
+  xy: 433, 337
+  size: 131, 55
+  orig: 131, 55
+  offset: 0, 0
+  index: -1
+tuboshu_xv2
+  rotate: true
+  xy: 486, 205
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+tuboshu_yan
+  rotate: false
+  xy: 433, 289
+  size: 115, 46
+  orig: 117, 48
+  offset: 1, 1
+  index: -1
+tuboshu_ye1
+  rotate: false
+  xy: 514, 95
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+tuboshu_ye2
+  rotate: true
+  xy: 417, 172
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+tuboshu_zui
+  rotate: false
+  xy: 326, 281
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1

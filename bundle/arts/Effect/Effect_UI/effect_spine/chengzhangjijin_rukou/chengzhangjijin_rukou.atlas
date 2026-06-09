@@ -1,0 +1,20 @@
+
+chengzhangjijin_rukou.png
+size: 241,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengzhangjijin_04
+  rotate: false
+  xy: 149, 45
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+hy_main_icon2_czjj_c
+  rotate: false
+  xy: 0, 0
+  size: 147, 137
+  orig: 160, 152
+  offset: 6, 7
+  index: -1

@@ -1,0 +1,27 @@
+
+chenghao_ailinzhiri.png
+size: 196,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ailinzhiri_03
+  rotate: true
+  xy: 134, 4
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+ailinzhiri_04
+  rotate: true
+  xy: 0, 8
+  size: 85, 70
+  orig: 87, 72
+  offset: 1, 1
+  index: -1
+ailinzhiri_07
+  rotate: true
+  xy: 72, 0
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1

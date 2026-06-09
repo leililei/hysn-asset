@@ -1,0 +1,13 @@
+
+miaoshoucaihui_rukou.png
+size: 96,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miaoshoucaihui_03
+  rotate: false
+  xy: 0, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

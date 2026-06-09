@@ -1,0 +1,76 @@
+
+yinghuafenfeishi_touxiangkuang.png
+size: 533,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yhffs_tx_01
+  rotate: false
+  xy: 246, 2
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+yhffs_tx_02
+  rotate: false
+  xy: 246, 80
+  size: 163, 157
+  orig: 163, 157
+  offset: 0, 0
+  index: -1
+yhffs_tx_03
+  rotate: false
+  xy: 447, 49
+  size: 39, 26
+  orig: 41, 28
+  offset: 1, 1
+  index: -1
+yhffs_tx_04
+  rotate: false
+  xy: 471, 23
+  size: 12, 24
+  orig: 14, 27
+  offset: 1, 2
+  index: -1
+yhffs_tx_05
+  rotate: true
+  xy: 447, 19
+  size: 28, 22
+  orig: 30, 24
+  offset: 1, 1
+  index: -1
+yhffs_tx_06
+  rotate: true
+  xy: 405, 45
+  size: 30, 40
+  orig: 32, 42
+  offset: 1, 1
+  index: -1
+yhffs_tx_07
+  rotate: true
+  xy: 488, 44
+  size: 31, 25
+  orig: 33, 28
+  offset: 1, 1
+  index: -1
+yhffs_tx_08
+  rotate: false
+  xy: 326, 21
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+yhffs_tx_09
+  rotate: true
+  xy: 411, 77
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+yhffs_tx_10
+  rotate: false
+  xy: 0, 0
+  size: 244, 237
+  orig: 247, 239
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+shengri_loading.png
+size: 1567,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 643, 69
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+caidai1
+  rotate: true
+  xy: 1423, 110
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+caidai2
+  rotate: true
+  xy: 713, 72
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+caidai3
+  rotate: true
+  xy: 1521, 116
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+caidai4
+  rotate: true
+  xy: 568, 60
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+caidai6
+  rotate: false
+  xy: 1480, 147
+  size: 87, 51
+  orig: 95, 61
+  offset: 4, 5
+  index: -1
+caidai7
+  rotate: false
+  xy: 1408, 0
+  size: 43, 38
+  orig: 51, 43
+  offset: 4, 3
+  index: -1
+caidai8
+  rotate: false
+  xy: 769, 77
+  size: 54, 48
+  orig: 60, 53
+  offset: 0, 4
+  index: -1
+caidai9
+  rotate: false
+  xy: 1535, 79
+  size: 23, 35
+  orig: 27, 43
+  offset: 2, 4
+  index: -1
+dangao
+  rotate: true
+  xy: 899, 155
+  size: 272, 299
+  orig: 272, 299
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 899, 23
+  size: 507, 130
+  orig: 509, 132
+  offset: 1, 1
+  index: -1
+fa
+  rotate: false
+  xy: 568, 127
+  size: 329, 300
+  orig: 342, 303
+  offset: 13, 3
+  index: -1
+gou
+  rotate: true
+  xy: 1200, 200
+  size: 227, 359
+  orig: 227, 392
+  offset: 0, 33
+  index: -1
+mei
+  rotate: true
+  xy: 1408, 40
+  size: 158, 13
+  orig: 160, 15
+  offset: 1, 1
+  index: -1
+ren
+  rotate: true
+  xy: 0, 14
+  size: 413, 566
+  orig: 413, 566
+  offset: 0, 0
+  index: -1
+she
+  rotate: false
+  xy: 1423, 69
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 1453, 30
+  size: 78, 80
+  orig: 80, 82
+  offset: 1, 1
+  index: -1
+yan1
+  rotate: false
+  xy: 825, 76
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 1480, 112
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1

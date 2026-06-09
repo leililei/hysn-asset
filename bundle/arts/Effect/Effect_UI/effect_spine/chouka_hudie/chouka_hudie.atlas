@@ -1,0 +1,41 @@
+
+chouka_hudie.png
+size: 376,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouka_hudie1
+  rotate: true
+  xy: 167, 8
+  size: 176, 209
+  orig: 176, 209
+  offset: 0, 0
+  index: -1
+chouka_hudie2
+  rotate: false
+  xy: 0, 0
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+chouka_hudie3
+  rotate: true
+  xy: 0, 137
+  size: 245, 165
+  orig: 245, 165
+  offset: 0, 0
+  index: -1
+chouka_hudie4
+  rotate: false
+  xy: 0, 384
+  size: 277, 225
+  orig: 288, 237
+  offset: 6, 7
+  index: -1
+chouka_hudie5
+  rotate: true
+  xy: 167, 186
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1

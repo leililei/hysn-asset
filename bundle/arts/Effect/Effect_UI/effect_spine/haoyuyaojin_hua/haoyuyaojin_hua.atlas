@@ -1,0 +1,83 @@
+
+haoyuyaojin_hua.png
+size: 595,1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haoyuyaojin_hua01
+  rotate: true
+  xy: 276, 39
+  size: 167, 188
+  orig: 167, 188
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua02
+  rotate: false
+  xy: 2, 131
+  size: 272, 276
+  orig: 272, 276
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua03
+  rotate: true
+  xy: 466, 42
+  size: 164, 95
+  orig: 164, 95
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua04
+  rotate: true
+  xy: 476, 227
+  size: 184, 79
+  orig: 184, 79
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua05
+  rotate: false
+  xy: 276, 208
+  size: 198, 203
+  orig: 198, 203
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua06
+  rotate: false
+  xy: 350, 615
+  size: 218, 194
+  orig: 218, 194
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua07
+  rotate: false
+  xy: 2, 409
+  size: 226, 647
+  orig: 226, 647
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua08
+  rotate: true
+  xy: 350, 413
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua09
+  rotate: false
+  xy: 350, 811
+  size: 243, 245
+  orig: 243, 245
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua10
+  rotate: false
+  xy: 230, 451
+  size: 118, 605
+  orig: 118, 605
+  offset: 0, 0
+  index: -1
+haoyuyaojin_hua11
+  rotate: false
+  xy: 2, 2
+  size: 265, 127
+  orig: 265, 127
+  offset: 0, 0
+  index: -1

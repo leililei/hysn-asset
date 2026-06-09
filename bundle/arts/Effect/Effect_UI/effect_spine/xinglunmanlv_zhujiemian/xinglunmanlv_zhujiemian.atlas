@@ -1,0 +1,62 @@
+
+xinglunmanlv_zhujiemian.png
+size: 1448,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiqi1
+  rotate: false
+  xy: 789, 326
+  size: 385, 238
+  orig: 385, 238
+  offset: 0, 0
+  index: -1
+caiqi2
+  rotate: false
+  xy: 0, 204
+  size: 787, 360
+  orig: 787, 360
+  offset: 0, 0
+  index: -1
+hy_xlml_orna_04
+  rotate: true
+  xy: 0, 5
+  size: 197, 509
+  orig: 292, 516
+  offset: 49, 7
+  index: -1
+hy_xlml_orna_05
+  rotate: false
+  xy: 1280, 30
+  size: 164, 268
+  orig: 164, 268
+  offset: 0, 0
+  index: -1
+hy_xlml_orna_06
+  rotate: true
+  xy: 511, 0
+  size: 202, 413
+  orig: 208, 413
+  offset: 6, 0
+  index: -1
+hy_xlml_orna_07
+  rotate: false
+  xy: 926, 29
+  size: 179, 295
+  orig: 179, 299
+  offset: 0, 4
+  index: -1
+hy_xlml_orna_11
+  rotate: false
+  xy: 1107, 32
+  size: 171, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+hy_xlml_orna_12
+  rotate: true
+  xy: 1176, 300
+  size: 264, 272
+  orig: 264, 272
+  offset: 0, 0
+  index: -1

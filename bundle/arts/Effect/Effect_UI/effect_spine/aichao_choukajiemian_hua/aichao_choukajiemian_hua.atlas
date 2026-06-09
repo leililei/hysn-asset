@@ -1,0 +1,27 @@
+
+aichao_choukajiemian_hua.png
+size: 1037,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 822, 0
+  size: 215, 264
+  orig: 215, 264
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 0, 8
+  size: 461, 256
+  orig: 461, 256
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 463, 44
+  size: 357, 220
+  orig: 357, 220
+  offset: 0, 0
+  index: -1

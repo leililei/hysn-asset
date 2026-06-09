@@ -1,0 +1,20 @@
+
+chouka_kaibao_guang.png
+size: 1325,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouka_xing
+  rotate: false
+  xy: 1263, 294
+  size: 62, 63
+  orig: 100, 100
+  offset: 19, 20
+  index: -1
+xian
+  rotate: false
+  xy: 0, 0
+  size: 1261, 357
+  orig: 1261, 357
+  offset: 0, 0
+  index: -1

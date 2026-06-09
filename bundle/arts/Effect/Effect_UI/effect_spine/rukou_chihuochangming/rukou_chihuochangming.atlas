@@ -1,0 +1,104 @@
+
+rukou_chihuochangming.png
+size: 284,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chihuochangming_rukou_01
+  rotate: false
+  xy: 166, 49
+  size: 50, 48
+  orig: 58, 56
+  offset: 3, 5
+  index: -1
+chihuochangming_rukou_02
+  rotate: true
+  xy: 130, 59
+  size: 38, 34
+  orig: 48, 43
+  offset: 4, 6
+  index: -1
+chihuochangming_rukou_03
+  rotate: false
+  xy: 216, 13
+  size: 34, 31
+  orig: 42, 40
+  offset: 3, 6
+  index: -1
+chihuochangming_rukou_04
+  rotate: false
+  xy: 0, 80
+  size: 58, 65
+  orig: 66, 73
+  offset: 3, 5
+  index: -1
+chihuochangming_rukou_05
+  rotate: true
+  xy: 60, 55
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_06
+  rotate: false
+  xy: 112, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_07
+  rotate: false
+  xy: 218, 46
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_08
+  rotate: true
+  xy: 249, 85
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_09
+  rotate: false
+  xy: 190, 99
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_10
+  rotate: false
+  xy: 60, 98
+  size: 68, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_11
+  rotate: false
+  xy: 166, 3
+  size: 48, 44
+  orig: 51, 46
+  offset: 0, 2
+  index: -1
+chihuochangming_rukou_12
+  rotate: true
+  xy: 130, 99
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_13
+  rotate: false
+  xy: 0, 14
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+chihuochangming_rukou_14
+  rotate: true
+  xy: 54, 0
+  size: 53, 56
+  orig: 59, 60
+  offset: 3, 2
+  index: -1

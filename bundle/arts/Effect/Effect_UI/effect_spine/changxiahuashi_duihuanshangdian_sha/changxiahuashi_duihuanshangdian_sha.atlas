@@ -1,0 +1,27 @@
+
+changxiahuashi_duihuanshangdian_sha.png
+size: 397,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changxiahuashi_duihuanshangdian_01
+  rotate: false
+  xy: 0, 47
+  size: 342, 219
+  orig: 342, 219
+  offset: 0, 0
+  index: -1
+changxiahuashi_duihuanshangdian_02
+  rotate: false
+  xy: 344, 148
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+changxiahuashi_duihuanshangdian_03
+  rotate: true
+  xy: 0, 0
+  size: 45, 324
+  orig: 45, 324
+  offset: 0, 0
+  index: -1

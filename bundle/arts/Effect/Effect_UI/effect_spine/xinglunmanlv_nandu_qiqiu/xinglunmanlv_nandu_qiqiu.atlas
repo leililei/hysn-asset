@@ -1,0 +1,27 @@
+
+xinglunmanlv_nandu_qiqiu.png
+size: 164,1114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_xlml_orna_05
+  rotate: false
+  xy: 0, 286
+  size: 158, 334
+  orig: 158, 334
+  offset: 0, 0
+  index: -1
+hy_xlml_orna_06
+  rotate: false
+  xy: 0, 622
+  size: 164, 492
+  orig: 164, 492
+  offset: 0, 0
+  index: -1
+hy_xlml_orna_07
+  rotate: false
+  xy: 0, 0
+  size: 158, 284
+  orig: 158, 404
+  offset: 0, 120
+  index: -1

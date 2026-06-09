@@ -1,0 +1,83 @@
+
+yijianqingxin_chenghao.png
+size: 363,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yijianqingxin_di
+  rotate: false
+  xy: 0, 84
+  size: 360, 60
+  orig: 362, 62
+  offset: 1, 1
+  index: -1
+yijianqingxin_hua1
+  rotate: false
+  xy: 234, 0
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+yijianqingxin_hua2
+  rotate: false
+  xy: 174, 3
+  size: 22, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+yijianqingxin_lian1
+  rotate: false
+  xy: 325, 30
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+yijianqingxin_lian2
+  rotate: true
+  xy: 174, 26
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+yijianqingxin_piaodai
+  rotate: true
+  xy: 0, 0
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+yijianqingxin_ren
+  rotate: true
+  xy: 94, 22
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+yijianqingxin_xin1
+  rotate: false
+  xy: 267, 5
+  size: 27, 24
+  orig: 32, 29
+  offset: 3, 3
+  index: -1
+yijianqingxin_xin2
+  rotate: true
+  xy: 296, 1
+  size: 28, 23
+  orig: 32, 28
+  offset: 2, 2
+  index: -1
+yijianqingxin_xin3
+  rotate: false
+  xy: 321, 5
+  size: 28, 23
+  orig: 33, 28
+  offset: 2, 3
+  index: -1
+yijianqingxin_yun
+  rotate: false
+  xy: 234, 31
+  size: 89, 51
+  orig: 93, 54
+  offset: 2, 1
+  index: -1

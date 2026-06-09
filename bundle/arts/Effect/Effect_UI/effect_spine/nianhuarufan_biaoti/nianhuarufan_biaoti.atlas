@@ -1,0 +1,27 @@
+
+nianhuarufan_biaoti.png
+size: 1330,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nianhuarufan_biaoti_di
+  rotate: true
+  xy: 535, 58
+  size: 244, 556
+  orig: 253, 563
+  offset: 6, 3
+  index: -1
+nianhuarufan_biaoti_hua
+  rotate: true
+  xy: 1093, 63
+  size: 239, 237
+  orig: 239, 237
+  offset: 0, 0
+  index: -1
+nianhuarufan_biaoti_zi
+  rotate: true
+  xy: 0, 0
+  size: 302, 533
+  orig: 319, 549
+  offset: 8, 7
+  index: -1

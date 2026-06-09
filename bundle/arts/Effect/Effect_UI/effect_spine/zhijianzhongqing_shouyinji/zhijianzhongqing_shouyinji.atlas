@@ -1,0 +1,76 @@
+
+zhijianzhongqing_shouyinji.png
+size: 423,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_glow_000
+  rotate: false
+  xy: 183, 25
+  size: 157, 160
+  orig: 256, 256
+  offset: 49, 48
+  index: -1
+shouyinji_01
+  rotate: true
+  xy: 312, 331
+  size: 235, 111
+  orig: 236, 112
+  offset: 0, 1
+  index: -1
+shouyinji_02
+  rotate: false
+  xy: 183, 187
+  size: 102, 143
+  orig: 102, 144
+  offset: 0, 1
+  index: -1
+shouyinji_03
+  rotate: true
+  xy: 0, 0
+  size: 330, 181
+  orig: 330, 182
+  offset: 0, 1
+  index: -1
+shouyinji_04
+  rotate: false
+  xy: 0, 332
+  size: 310, 234
+  orig: 310, 234
+  offset: 0, 0
+  index: -1
+shouyinji_05
+  rotate: false
+  xy: 370, 239
+  size: 37, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+shouyinji_06
+  rotate: true
+  xy: 287, 193
+  size: 58, 81
+  orig: 58, 82
+  offset: 0, 1
+  index: -1
+shouyinji_07
+  rotate: true
+  xy: 342, 38
+  size: 75, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+shouyinji_08
+  rotate: false
+  xy: 342, 115
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+shouyinji_09
+  rotate: false
+  xy: 287, 253
+  size: 77, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+shangdian_niao.png
+size: 47,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_jiayuanjianzao_btn_shop02
+  rotate: true
+  xy: 30, 14
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+hy_jiayuanjianzao_btn_shop03
+  rotate: true
+  xy: 30, 0
+  size: 12, 8
+  orig: 13, 9
+  offset: 1, 0
+  index: -1
+hy_jiayuanjianzao_btn_shop2
+  rotate: true
+  xy: 0, 1
+  size: 45, 28
+  orig: 56, 28
+  offset: 11, 0
+  index: -1

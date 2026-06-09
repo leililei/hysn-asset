@@ -1,0 +1,20 @@
+
+dongyezhimeng_yezi.png
+size: 562,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongyezhimeng_ye1
+  rotate: true
+  xy: 283, 0
+  size: 393, 279
+  orig: 393, 279
+  offset: 0, 0
+  index: -1
+dongyezhimeng_ye2
+  rotate: true
+  xy: 0, 0
+  size: 393, 281
+  orig: 393, 281
+  offset: 0, 0
+  index: -1

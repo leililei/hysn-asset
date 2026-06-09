@@ -1,0 +1,90 @@
+
+xinshoulibao_ren.png
+size: 247,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diying
+  rotate: true
+  xy: 210, 445
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 182, 129
+  size: 52, 63
+  orig: 55, 67
+  offset: 2, 3
+  index: -1
+fa1
+  rotate: true
+  xy: 0, 100
+  size: 72, 159
+  orig: 72, 159
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 0, 0
+  size: 98, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 0, 174
+  size: 66, 180
+  orig: 66, 180
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 0, 502
+  size: 71, 208
+  orig: 71, 208
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 0, 242
+  size: 198, 145
+  orig: 198, 145
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 0, 389
+  size: 111, 200
+  orig: 111, 200
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 200, 183
+  size: 46, 106
+  orig: 46, 106
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 200, 291
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 575
+  size: 247, 235
+  orig: 249, 239
+  offset: 1, 1
+  index: -1
+touhua1
+  rotate: false
+  xy: 161, 20
+  size: 82, 107
+  orig: 84, 108
+  offset: 1, 1
+  index: -1

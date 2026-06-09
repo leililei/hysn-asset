@@ -1,0 +1,48 @@
+
+18_28.png
+size: 265,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_28_01
+  rotate: true
+  xy: 216, 29
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+18_28_02
+  rotate: true
+  xy: 245, 8
+  size: 19, 20
+  orig: 23, 25
+  offset: 2, 2
+  index: -1
+18_28_03
+  rotate: false
+  xy: 216, 0
+  size: 27, 27
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+18_28_04
+  rotate: true
+  xy: 170, 4
+  size: 86, 44
+  orig: 90, 48
+  offset: 2, 2
+  index: -1
+18_28_05
+  rotate: true
+  xy: 0, 1
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+18_28_06
+  rotate: true
+  xy: 89, 3
+  size: 87, 79
+  orig: 90, 82
+  offset: 1, 1
+  index: -1

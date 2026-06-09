@@ -1,0 +1,76 @@
+
+touxiangkuang_taqingtongxing.png
+size: 438,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taqingtongxing_touxiangkuang_01
+  rotate: false
+  xy: 233, 9
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_02
+  rotate: false
+  xy: 233, 100
+  size: 142, 137
+  orig: 144, 139
+  offset: 1, 1
+  index: -1
+taqingtongxing_touxiangkuang_03
+  rotate: true
+  xy: 377, 79
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_04
+  rotate: false
+  xy: 370, 3
+  size: 33, 35
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+taqingtongxing_touxiangkuang_05
+  rotate: false
+  xy: 377, 172
+  size: 61, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+taqingtongxing_touxiangkuang_06
+  rotate: false
+  xy: 377, 126
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_07
+  rotate: true
+  xy: 370, 40
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_08
+  rotate: false
+  xy: 280, 1
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_09
+  rotate: true
+  xy: 327, 2
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+taqingtongxing_touxiangkuang_10
+  rotate: true
+  xy: 0, 0
+  size: 237, 231
+  orig: 239, 233
+  offset: 1, 1
+  index: -1

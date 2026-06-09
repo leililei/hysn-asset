@@ -1,0 +1,69 @@
+
+aichao2_zhulian.png
+size: 390,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhulian_gan
+  rotate: false
+  xy: 0, 17
+  size: 170, 95
+  orig: 170, 95
+  offset: 0, 0
+  index: -1
+zhulian_lian1
+  rotate: true
+  xy: 0, 0
+  size: 15, 226
+  orig: 15, 226
+  offset: 0, 0
+  index: -1
+zhulian_lian2
+  rotate: true
+  xy: 172, 85
+  size: 15, 192
+  orig: 15, 192
+  offset: 0, 0
+  index: -1
+zhulian_lian3
+  rotate: true
+  xy: 172, 53
+  size: 16, 165
+  orig: 16, 165
+  offset: 0, 0
+  index: -1
+zhulian_lian4
+  rotate: true
+  xy: 172, 21
+  size: 15, 149
+  orig: 15, 149
+  offset: 0, 0
+  index: -1
+zhulian_lian5
+  rotate: true
+  xy: 228, 4
+  size: 15, 140
+  orig: 15, 140
+  offset: 0, 0
+  index: -1
+zhulian_lian6
+  rotate: true
+  xy: 172, 38
+  size: 13, 156
+  orig: 13, 156
+  offset: 0, 0
+  index: -1
+zhulian_lian7
+  rotate: true
+  xy: 172, 71
+  size: 12, 188
+  orig: 12, 188
+  offset: 0, 0
+  index: -1
+zhulian_lian8
+  rotate: true
+  xy: 172, 102
+  size: 10, 218
+  orig: 10, 218
+  offset: 0, 0
+  index: -1

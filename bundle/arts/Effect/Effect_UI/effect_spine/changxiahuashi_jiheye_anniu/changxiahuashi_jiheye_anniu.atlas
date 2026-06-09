@@ -1,0 +1,104 @@
+
+changxiahuashi_jiheye_anniu.png
+size: 1413,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiheye_anniu_001
+  rotate: false
+  xy: 843, 139
+  size: 180, 193
+  orig: 182, 195
+  offset: 1, 1
+  index: -1
+jiheye_anniu_002
+  rotate: true
+  xy: 1341, 15
+  size: 52, 69
+  orig: 55, 74
+  offset: 1, 4
+  index: -1
+jiheye_anniu_003
+  rotate: false
+  xy: 1281, 152
+  size: 75, 74
+  orig: 77, 81
+  offset: 1, 5
+  index: -1
+jiheye_anniu_004
+  rotate: false
+  xy: 1108, 3
+  size: 123, 136
+  orig: 126, 138
+  offset: 2, 1
+  index: -1
+jiheye_anniu_005
+  rotate: true
+  xy: 1233, 31
+  size: 119, 106
+  orig: 124, 108
+  offset: 4, 1
+  index: -1
+jiheye_anniu_006
+  rotate: true
+  xy: 1341, 69
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+jiheye_anniu_007
+  rotate: true
+  xy: 1358, 167
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+jiheye_anniu_008
+  rotate: true
+  xy: 1207, 152
+  size: 180, 72
+  orig: 180, 72
+  offset: 0, 0
+  index: -1
+jiheye_anniu_009
+  rotate: true
+  xy: 1281, 228
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+jiheye_anniu_010
+  rotate: true
+  xy: 0, 0
+  size: 332, 441
+  orig: 394, 441
+  offset: 0, 0
+  index: -1
+jiheye_anniu_011
+  rotate: true
+  xy: 843, 9
+  size: 128, 263
+  orig: 128, 263
+  offset: 0, 0
+  index: -1
+jiheye_anniu_012
+  rotate: false
+  xy: 1121, 177
+  size: 84, 155
+  orig: 84, 155
+  offset: 0, 0
+  index: -1
+jiheye_anniu_013
+  rotate: false
+  xy: 1025, 141
+  size: 94, 191
+  orig: 94, 191
+  offset: 0, 0
+  index: -1
+jiheye_anniu_014
+  rotate: true
+  xy: 443, 23
+  size: 309, 398
+  orig: 318, 406
+  offset: 5, 4
+  index: -1

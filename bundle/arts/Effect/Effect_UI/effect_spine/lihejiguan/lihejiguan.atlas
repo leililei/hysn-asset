@@ -1,0 +1,48 @@
+
+lihejiguan.png
+size: 327,950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangguan
+  rotate: false
+  xy: 157, 820
+  size: 154, 130
+  orig: 156, 132
+  offset: 1, 1
+  index: -1
+lihe1
+  rotate: false
+  xy: 0, 476
+  size: 326, 210
+  orig: 326, 210
+  offset: 0, 0
+  index: -1
+lihe2
+  rotate: false
+  xy: 0, 688
+  size: 253, 130
+  orig: 254, 130
+  offset: 0, 0
+  index: -1
+lihe3
+  rotate: false
+  xy: 0, 259
+  size: 311, 215
+  orig: 312, 216
+  offset: 0, 1
+  index: -1
+xiaoren
+  rotate: true
+  xy: 0, 0
+  size: 257, 327
+  orig: 258, 328
+  offset: 0, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 873
+  size: 155, 77
+  orig: 156, 78
+  offset: 0, 1
+  index: -1

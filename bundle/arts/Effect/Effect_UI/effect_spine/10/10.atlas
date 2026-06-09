@@ -1,0 +1,48 @@
+
+10.png
+size: 93,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiqiu_10_01
+  rotate: true
+  xy: 25, 5
+  size: 19, 18
+  orig: 23, 22
+  offset: 2, 2
+  index: -1
+feiqiu_10_02
+  rotate: true
+  xy: 0, 0
+  size: 24, 23
+  orig: 28, 27
+  offset: 2, 2
+  index: -1
+feiqiu_10_03
+  rotate: false
+  xy: 48, 1
+  size: 27, 26
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+feiqiu_10_04
+  rotate: true
+  xy: 0, 26
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+feiqiu_10_05
+  rotate: false
+  xy: 0, 70
+  size: 93, 113
+  orig: 93, 113
+  offset: 0, 0
+  index: -1
+feiqiu_10_06
+  rotate: true
+  xy: 48, 29
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1

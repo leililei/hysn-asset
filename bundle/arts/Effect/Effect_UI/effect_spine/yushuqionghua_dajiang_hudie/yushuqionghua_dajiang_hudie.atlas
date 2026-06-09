@@ -1,0 +1,34 @@
+
+yushuqionghua_dajiang_hudie.png
+size: 344,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajiang_hudie1
+  rotate: false
+  xy: 272, 194
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+dajiang_hudie2
+  rotate: false
+  xy: 272, 144
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+dajiang_hudie3
+  rotate: false
+  xy: 272, 107
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+hy_shishuiyz_floor_01
+  rotate: false
+  xy: 2, 2
+  size: 268, 260
+  orig: 268, 260
+  offset: 0, 0
+  index: -1

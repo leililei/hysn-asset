@@ -1,0 +1,20 @@
+
+xunjitilan_shu.png
+size: 700,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu1
+  rotate: true
+  xy: 0, 0
+  size: 246, 445
+  orig: 248, 445
+  offset: 1, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 447, 4
+  size: 242, 253
+  orig: 242, 253
+  offset: 0, 0
+  index: -1

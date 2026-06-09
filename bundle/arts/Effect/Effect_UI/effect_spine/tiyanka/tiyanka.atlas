@@ -1,0 +1,34 @@
+
+tiyanka.png
+size: 289,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiyanka_02
+  rotate: false
+  xy: 186, 2
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+tiyanka_03
+  rotate: true
+  xy: 104, 2
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+tiyanka_04
+  rotate: false
+  xy: 252, 39
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+tiyanka_05
+  rotate: true
+  xy: 0, 0
+  size: 94, 102
+  orig: 100, 108
+  offset: 2, 4
+  index: -1

@@ -1,0 +1,48 @@
+
+outshow_200005.png
+size: 325,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+outshow_200005_hudie1
+  rotate: false
+  xy: 203, 1
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+outshow_200005_hudie2
+  rotate: false
+  xy: 150, 15
+  size: 51, 51
+  orig: 62, 59
+  offset: 6, 2
+  index: -1
+outshow_200005_hudie3
+  rotate: false
+  xy: 280, 40
+  size: 38, 35
+  orig: 46, 43
+  offset: 5, 2
+  index: -1
+outshow_200005_zhenzhu1
+  rotate: false
+  xy: 0, 68
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1
+outshow_200005_zhenzhu2
+  rotate: false
+  xy: 0, 0
+  size: 148, 66
+  orig: 148, 66
+  offset: 0, 0
+  index: -1
+outshow_200005_zhenzhu3
+  rotate: false
+  xy: 184, 77
+  size: 141, 77
+  orig: 141, 77
+  offset: 0, 0
+  index: -1

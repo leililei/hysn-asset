@@ -1,0 +1,34 @@
+
+eff_ty_dadou_3.png
+size: 304,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_loky_swordlight_021
+  rotate: true
+  xy: 0, 10
+  size: 115, 236
+  orig: 256, 256
+  offset: 141, 8
+  index: -1
+E_loky_swordlight_21
+  rotate: true
+  xy: 0, 127
+  size: 128, 236
+  orig: 256, 256
+  offset: 128, 8
+  index: -1
+lizi_7
+  rotate: false
+  xy: 238, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+path_43
+  rotate: true
+  xy: 238, 34
+  size: 221, 66
+  orig: 256, 128
+  offset: 26, 33
+  index: -1

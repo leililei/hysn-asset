@@ -1,0 +1,20 @@
+
+zhuanchang_hudie.png
+size: 508,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading_02
+  rotate: false
+  xy: 476, 273
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+loading_15
+  rotate: true
+  xy: 0, 0
+  size: 305, 474
+  orig: 658, 658
+  offset: 353, 68
+  index: -1

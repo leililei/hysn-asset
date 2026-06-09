@@ -1,0 +1,13 @@
+
+yihai_biaoti_hudie.png
+size: 49,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaotihudie
+  rotate: false
+  xy: 0, 0
+  size: 49, 49
+  orig: 57, 54
+  offset: 5, 3
+  index: -1

@@ -1,0 +1,27 @@
+
+jixiafengwushi_libao.png
+size: 940,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_glow_000
+  rotate: true
+  xy: 780, 328
+  size: 157, 160
+  orig: 256, 256
+  offset: 49, 48
+  index: -1
+bao1
+  rotate: true
+  xy: 0, 0
+  size: 485, 445
+  orig: 485, 500
+  offset: 0, 0
+  index: -1
+bao2
+  rotate: true
+  xy: 447, 0
+  size: 485, 331
+  orig: 485, 500
+  offset: 0, 169
+  index: -1

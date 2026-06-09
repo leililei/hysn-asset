@@ -1,0 +1,48 @@
+
+7.png
+size: 162,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xianshilibao_01
+  rotate: false
+  xy: 97, 6
+  size: 15, 15
+  orig: 21, 21
+  offset: 3, 3
+  index: -1
+xianshilibao_02
+  rotate: false
+  xy: 97, 6
+  size: 15, 15
+  orig: 21, 21
+  offset: 3, 3
+  index: -1
+xianshilibao_03
+  rotate: false
+  xy: 76, 2
+  size: 19, 19
+  orig: 23, 25
+  offset: 2, 3
+  index: -1
+xianshilibao_04
+  rotate: false
+  xy: 0, 0
+  size: 74, 40
+  orig: 80, 45
+  offset: 3, 3
+  index: -1
+xianshilibao_05
+  rotate: true
+  xy: 84, 23
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+xianshilibao_06
+  rotate: false
+  xy: 0, 42
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1

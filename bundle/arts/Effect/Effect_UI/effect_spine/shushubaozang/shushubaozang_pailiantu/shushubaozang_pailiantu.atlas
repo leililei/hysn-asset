@@ -1,0 +1,83 @@
+
+shushubaozang_pailiantu.png
+size: 637,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pailiantu_cao
+  rotate: false
+  xy: 0, 146
+  size: 339, 134
+  orig: 339, 134
+  offset: 0, 0
+  index: -1
+pailiantu_hua1
+  rotate: false
+  xy: 557, 88
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+pailiantu_hua10
+  rotate: true
+  xy: 341, 158
+  size: 122, 203
+  orig: 122, 203
+  offset: 0, 0
+  index: -1
+pailiantu_hua2
+  rotate: false
+  xy: 546, 173
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+pailiantu_hua3
+  rotate: false
+  xy: 377, 12
+  size: 89, 144
+  orig: 89, 144
+  offset: 0, 0
+  index: -1
+pailiantu_hua4
+  rotate: true
+  xy: 0, 2
+  size: 142, 237
+  orig: 142, 237
+  offset: 0, 0
+  index: -1
+pailiantu_hua5
+  rotate: false
+  xy: 557, 54
+  size: 38, 32
+  orig: 39, 32
+  offset: 1, 0
+  index: -1
+pailiantu_hua6
+  rotate: false
+  xy: 557, 19
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+pailiantu_hua7
+  rotate: false
+  xy: 597, 52
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+pailiantu_hua8
+  rotate: true
+  xy: 239, 0
+  size: 144, 136
+  orig: 144, 136
+  offset: 0, 0
+  index: -1
+pailiantu_hua9
+  rotate: false
+  xy: 468, 19
+  size: 87, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1

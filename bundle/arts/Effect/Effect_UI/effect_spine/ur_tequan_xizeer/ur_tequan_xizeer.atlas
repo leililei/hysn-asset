@@ -1,0 +1,104 @@
+
+ur_tequan_xizeer.png
+size: 698,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai_01
+  rotate: false
+  xy: 0, 5
+  size: 106, 97
+  orig: 118, 110
+  offset: 5, 5
+  index: -1
+caidai_02
+  rotate: false
+  xy: 108, 5
+  size: 77, 97
+  orig: 95, 115
+  offset: 9, 9
+  index: -1
+caidai_03
+  rotate: true
+  xy: 622, 462
+  size: 80, 76
+  orig: 92, 86
+  offset: 6, 5
+  index: -1
+caidai_04
+  rotate: false
+  xy: 589, 206
+  size: 68, 70
+  orig: 80, 82
+  offset: 5, 6
+  index: -1
+caidai_05
+  rotate: false
+  xy: 589, 8
+  size: 61, 61
+  orig: 75, 73
+  offset: 7, 6
+  index: -1
+caidai_06
+  rotate: false
+  xy: 187, 15
+  size: 80, 87
+  orig: 92, 104
+  offset: 5, 9
+  index: -1
+caidai_07
+  rotate: true
+  xy: 622, 304
+  size: 71, 69
+  orig: 82, 81
+  offset: 6, 6
+  index: -1
+caidai_08
+  rotate: false
+  xy: 589, 135
+  size: 66, 69
+  orig: 78, 82
+  offset: 5, 7
+  index: -1
+caidai_09
+  rotate: false
+  xy: 589, 71
+  size: 66, 62
+  orig: 80, 73
+  offset: 7, 6
+  index: -1
+hy_hesuitequan_orna_01
+  rotate: false
+  xy: 306, 0
+  size: 281, 276
+  orig: 282, 276
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_02
+  rotate: false
+  xy: 0, 104
+  size: 304, 438
+  orig: 304, 438
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_orna_03
+  rotate: false
+  xy: 306, 278
+  size: 314, 264
+  orig: 314, 264
+  offset: 0, 0
+  index: -1
+hy_hesuitequan_xing1
+  rotate: false
+  xy: 657, 146
+  size: 41, 58
+  orig: 42, 59
+  offset: 1, 1
+  index: -1
+hy_hesuitequan_xing2
+  rotate: false
+  xy: 622, 377
+  size: 59, 83
+  orig: 60, 84
+  offset: 1, 1
+  index: -1

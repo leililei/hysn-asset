@@ -1,0 +1,13 @@
+
+huayulu_piaodai.png
+size: 205,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: false
+  xy: 0, 0
+  size: 205, 526
+  orig: 205, 526
+  offset: 0, 0
+  index: -1

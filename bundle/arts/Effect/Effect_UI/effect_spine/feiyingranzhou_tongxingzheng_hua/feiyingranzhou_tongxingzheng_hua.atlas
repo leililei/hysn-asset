@@ -1,0 +1,20 @@
+
+feiyingranzhou_tongxingzheng_hua.png
+size: 371,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_feiyingranzhou_tongxingzheng_01
+  rotate: true
+  xy: 0, 0
+  size: 195, 208
+  orig: 195, 208
+  offset: 0, 0
+  index: -1
+hy_feiyingranzhou_tongxingzheng_02
+  rotate: true
+  xy: 210, 33
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1

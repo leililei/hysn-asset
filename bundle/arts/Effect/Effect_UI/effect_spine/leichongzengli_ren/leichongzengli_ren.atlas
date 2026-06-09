@@ -1,0 +1,55 @@
+
+leichongzengli_ren.png
+size: 632,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_leichongzengli_renwu
+  rotate: true
+  xy: 0, 0
+  size: 456, 532
+  orig: 456, 532
+  offset: 0, 0
+  index: -1
+hy_leichongzengli_renwu_fa1
+  rotate: false
+  xy: 534, 331
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+hy_leichongzengli_renwu_fa2
+  rotate: false
+  xy: 534, 197
+  size: 80, 132
+  orig: 80, 132
+  offset: 0, 0
+  index: -1
+hy_leichongzengli_renwu_mei1
+  rotate: false
+  xy: 534, 1
+  size: 47, 33
+  orig: 50, 34
+  offset: 3, 0
+  index: -1
+hy_leichongzengli_renwu_mei2
+  rotate: true
+  xy: 600, 60
+  size: 63, 18
+  orig: 68, 19
+  offset: 1, 1
+  index: -1
+hy_leichongzengli_renwu_yan1
+  rotate: true
+  xy: 534, 125
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+hy_leichongzengli_renwu_yan2
+  rotate: true
+  xy: 534, 36
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1

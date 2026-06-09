@@ -1,0 +1,20 @@
+
+feiyingranzhou_jiemian_hua.png
+size: 787,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_feiyingranzhou_orna_01
+  rotate: true
+  xy: 0, 0
+  size: 245, 413
+  orig: 245, 413
+  offset: 0, 0
+  index: -1
+hy_feiyingranzhou_orna_02
+  rotate: true
+  xy: 415, 10
+  size: 235, 372
+  orig: 235, 372
+  offset: 0, 0
+  index: -1
