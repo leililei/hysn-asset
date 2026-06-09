@@ -1,0 +1,41 @@
+
+20076.png
+size: 1320,1652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20076_1
+  rotate: false
+  xy: 1, 237
+  size: 236, 433
+  orig: 236, 433
+  offset: 0, 0
+  index: -1
+20076_2
+  rotate: false
+  xy: 687, 1566
+  size: 166, 83
+  orig: 166, 83
+  offset: 0, 0
+  index: -1
+20076_3
+  rotate: false
+  xy: 1, 663
+  size: 210, 169
+  orig: 231, 169
+  offset: 0, 0
+  index: -1
+20076_4
+  rotate: false
+  xy: 1, 398
+  size: 822, 1252
+  orig: 869, 1282
+  offset: 47, 0
+  index: -1
+20076_5
+  rotate: false
+  xy: 773, 2
+  size: 545, 1648
+  orig: 545, 1648
+  offset: 0, 0
+  index: -1

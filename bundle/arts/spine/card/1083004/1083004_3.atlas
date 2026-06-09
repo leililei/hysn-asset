@@ -1,0 +1,20 @@
+
+1083004_3.png
+size: 1180,1944
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1083004_120
+  rotate: 270
+  xy: 2, 3
+  size: 178, 892
+  orig: 180, 892
+  offset: 0, 0
+  index: -1
+1083004_121
+  rotate: false
+  xy: 2, 178
+  size: 1174, 1765
+  orig: 1192, 1782
+  offset: 18, 0
+  index: -1

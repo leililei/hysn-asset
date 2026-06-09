@@ -1,0 +1,20 @@
+
+20057.png
+size: 1920,1480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20057_1
+  rotate: true
+  xy: 871, 35
+  size: 1007, 1046
+  orig: 1008, 1163
+  offset: 1, 0
+  index: -1
+20057_2
+  rotate: false
+  xy: 1, 2
+  size: 1381, 1478
+  orig: 1381, 1478
+  offset: 0, 0
+  index: -1

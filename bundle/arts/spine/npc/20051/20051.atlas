@@ -1,0 +1,34 @@
+
+20051.png
+size: 1696,1840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20051_1
+  rotate: false
+  xy: 1, 444
+  size: 981, 1397
+  orig: 981, 1403
+  offset: 0, 0
+  index: -1
+20051_2
+  rotate: 180
+  xy: 844, 316
+  size: 851, 1524
+  orig: 851, 1524
+  offset: 0, 0
+  index: -1
+20051_3
+  rotate: false
+  xy: 643, 23
+  size: 493, 436
+  orig: 493, 436
+  offset: 0, 0
+  index: -1
+20051_4
+  rotate: true
+  xy: 1, 2
+  size: 440, 640
+  orig: 466, 640
+  offset: 26, 0
+  index: -1

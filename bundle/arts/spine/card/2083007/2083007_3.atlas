@@ -1,0 +1,20 @@
+
+2083007_3.png
+size: 2048,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsc_98
+  rotate: true
+  xy: 1141, 3
+  size: 1263, 904
+  orig: 1263, 905
+  offset: 0, 1
+  index: -1
+bsc_99
+  rotate: false
+  xy: 2, 101
+  size: 1139, 1708
+  orig: 1139, 1708
+  offset: 0, 0
+  index: -1

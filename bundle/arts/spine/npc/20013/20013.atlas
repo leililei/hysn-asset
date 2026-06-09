@@ -1,0 +1,181 @@
+
+20013.png
+size: 392,1456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 260, 1157
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 2, 710
+  size: 222, 205
+  orig: 222, 205
+  offset: 0, 0
+  index: -1
+daizi01
+  rotate: 270
+  xy: 330, 420
+  size: 173, 50
+  orig: 173, 50
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: false
+  xy: 52, 19
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: false
+  xy: 283, 1033
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+jixie01
+  rotate: false
+  xy: 2, 14
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+jixie02
+  rotate: 180
+  xy: 178, 54
+  size: 172, 44
+  orig: 172, 72
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 187, 246
+  size: 192, 172
+  orig: 192, 172
+  offset: 0, 0
+  index: -1
+maofa01
+  rotate: false
+  xy: 327, 1076
+  size: 47, 24
+  orig: 48, 24
+  offset: 1, 0
+  index: -1
+piaodai01
+  rotate: true
+  xy: 155, 27
+  size: 24, 132
+  orig: 24, 132
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1129
+  size: 292, 326
+  orig: 292, 326
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 2, 1149
+  size: 40, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: 180
+  xy: 160, 412
+  size: 192, 172
+  orig: 192, 172
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 2, 140
+  size: 87, 184
+  orig: 90, 196
+  offset: 0, 12
+  index: -1
+tui02
+  rotate: true
+  xy: 184, 99
+  size: 69, 191
+  orig: 69, 191
+  offset: 0, 0
+  index: -1
+tui03
+  rotate: true
+  xy: 275, 1111
+  size: 344, 103
+  orig: 361, 103
+  offset: 0, 0
+  index: -1
+tui04
+  rotate: 270
+  xy: 2, 75
+  size: 64, 162
+  orig: 64, 162
+  offset: 0, 0
+  index: -1
+tui05
+  rotate: true
+  xy: 208, 159
+  size: 85, 174
+  orig: 85, 180
+  offset: 0, 6
+  index: -1
+tui06
+  rotate: 180
+  xy: 2, 336
+  size: 135, 245
+  orig: 135, 245
+  offset: 0, 0
+  index: -1
+tui07
+  rotate: true
+  xy: 2, 214
+  size: 86, 205
+  orig: 86, 205
+  offset: 0, 0
+  index: -1
+tui08
+  rotate: true
+  xy: 2, 570
+  size: 137, 302
+  orig: 137, 319
+  offset: 0, 17
+  index: -1
+weiba01
+  rotate: 270
+  xy: 257, 582
+  size: 381, 130
+  orig: 389, 130
+  offset: 0, 0
+  index: -1
+weiba02
+  rotate: true
+  xy: 2, 916
+  size: 211, 266
+  orig: 212, 268
+  offset: 0, 1
+  index: -1
+zui01
+  rotate: false
+  xy: 289, 3
+  size: 86, 49
+  orig: 86, 51
+  offset: 0, 2
+  index: -1
+zui02
+  rotate: false
+  xy: 270, 964
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1

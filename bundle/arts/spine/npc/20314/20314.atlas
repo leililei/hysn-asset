@@ -1,0 +1,20 @@
+
+20314.png
+size: 1644,2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20314_1
+  rotate: false
+  xy: 2, 892
+  size: 1639, 1129
+  orig: 1639, 1129
+  offset: 0, 0
+  index: -1
+20314_2
+  rotate: true
+  xy: 2, 4
+  size: 886, 1336
+  orig: 886, 1364
+  offset: 0, 0
+  index: -1

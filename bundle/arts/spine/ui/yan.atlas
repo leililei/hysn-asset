@@ -1,0 +1,27 @@
+
+yan.png
+size: 1748,1536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1083001_3
+  rotate: false
+  xy: 2, 2
+  size: 809, 1529
+  orig: 809, 1529
+  offset: 0, 0
+  index: -1
+1083001_4
+  rotate: false
+  xy: 813, 224
+  size: 889, 359
+  orig: 889, 359
+  offset: 0, 0
+  index: -1
+1083001_5
+  rotate: false
+  xy: 813, 585
+  size: 931, 946
+  orig: 931, 946
+  offset: 0, 0
+  index: -1

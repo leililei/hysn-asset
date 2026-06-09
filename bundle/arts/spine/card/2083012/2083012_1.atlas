@@ -1,0 +1,174 @@
+
+2083012_1.png
+size: 1920,2008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g01
+  rotate: true
+  xy: 2, 273
+  size: 655, 845
+  orig: 700, 937
+  offset: 35, 31
+  index: -1
+g02
+  rotate: false
+  xy: 849, 517
+  size: 472, 426
+  orig: 552, 500
+  offset: 58, 29
+  index: -1
+lqj_10
+  rotate: false
+  xy: 352, 1050
+  size: 59, 52
+  orig: 145, 74
+  offset: 47, 17
+  index: -1
+lqj_11
+  rotate: false
+  xy: 161, 1144
+  size: 47, 41
+  orig: 56, 48
+  offset: 5, 3
+  index: -1
+lqj_12
+  rotate: false
+  xy: 461, 931
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+lqj_13
+  rotate: true
+  xy: 1340, 1552
+  size: 455, 311
+  orig: 455, 311
+  offset: 0, 0
+  index: -1
+lqj_14
+  rotate: false
+  xy: 2, 962
+  size: 359, 267
+  orig: 359, 267
+  offset: 0, 0
+  index: -1
+lqj_15
+  rotate: false
+  xy: 2, 130
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+lqj_16
+  rotate: false
+  xy: 1653, 1236
+  size: 174, 319
+  orig: 174, 319
+  offset: 0, 0
+  index: -1
+lqj_17
+  rotate: true
+  xy: 1416, 414
+  size: 392, 462
+  orig: 392, 462
+  offset: 0, 0
+  index: -1
+lqj_18
+  rotate: 270
+  xy: 1577, 1540
+  size: 360, 338
+  orig: 360, 338
+  offset: 0, 0
+  index: -1
+lqj_19
+  rotate: false
+  xy: 1241, 699
+  size: 410, 837
+  orig: 410, 837
+  offset: 0, 0
+  index: -1
+lqj_2
+  rotate: false
+  xy: 1553, 226
+  size: 102, 186
+  orig: 102, 186
+  offset: 0, 0
+  index: -1
+lqj_20
+  rotate: 180
+  xy: 2, 3
+  size: 1448, 542
+  orig: 1448, 542
+  offset: 0, 0
+  index: -1
+lqj_21
+  rotate: false
+  xy: 989, 945
+  size: 210, 179
+  orig: 265, 195
+  offset: 38, 16
+  index: -1
+lqj_22
+  rotate: false
+  xy: 1528, 1723
+  size: 210, 179
+  orig: 269, 195
+  offset: 40, 16
+  index: -1
+lqj_23
+  rotate: false
+  xy: 2, 930
+  size: 1415, 1076
+  orig: 1415, 1076
+  offset: 0, 0
+  index: -1
+lqj_3
+  rotate: false
+  xy: 1451, 179
+  size: 100, 236
+  orig: 100, 236
+  offset: 0, 0
+  index: -1
+lqj_4
+  rotate: false
+  xy: 240, 930
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+lqj_5
+  rotate: false
+  xy: 1239, 1803
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1
+lqj_6
+  rotate: false
+  xy: 898, 986
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+lqj_7
+  rotate: false
+  xy: 2, 931
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+lqj_8
+  rotate: false
+  xy: 461, 1023
+  size: 97, 84
+  orig: 187, 144
+  offset: 53, 26
+  index: -1
+lqj_9
+  rotate: false
+  xy: 324, 930
+  size: 135, 118
+  orig: 205, 248
+  offset: 48, 90
+  index: -1

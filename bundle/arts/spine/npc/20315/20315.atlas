@@ -1,0 +1,20 @@
+
+20315.png
+size: 2028,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20315_1
+  rotate: 180
+  xy: 1265, 3
+  size: 758, 986
+  orig: 767, 986
+  offset: 0, 0
+  index: -1
+20315_2
+  rotate: true
+  xy: 2, 149
+  size: 840, 1376
+  orig: 840, 1376
+  offset: 0, 0
+  index: -1

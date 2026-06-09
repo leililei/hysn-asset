@@ -1,0 +1,55 @@
+
+2083012_3.png
+size: 1900,1904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lqj_100
+  rotate: false
+  xy: 2, 618
+  size: 1575, 1282
+  orig: 1575, 1282
+  offset: 0, 0
+  index: -1
+lqj_101
+  rotate: false
+  xy: 2, 76
+  size: 788, 541
+  orig: 788, 541
+  offset: 0, 0
+  index: -1
+lqj_95
+  rotate: false
+  xy: 1578, 1401
+  size: 253, 498
+  orig: 316, 498
+  offset: 0, 0
+  index: -1
+lqj_96
+  rotate: 180
+  xy: 1403, 4
+  size: 378, 743
+  orig: 387, 743
+  offset: 0, 0
+  index: -1
+lqj_97
+  rotate: false
+  xy: 1578, 1300
+  size: 47, 252
+  orig: 47, 252
+  offset: 0, 0
+  index: -1
+lqj_98
+  rotate: false
+  xy: 1578, 1007
+  size: 319, 892
+  orig: 319, 892
+  offset: 0, 0
+  index: -1
+lqj_99
+  rotate: false
+  xy: 791, 158
+  size: 554, 459
+  orig: 554, 459
+  offset: 0, 0
+  index: -1

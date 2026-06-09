@@ -1,0 +1,20 @@
+
+20194.png
+size: 1532,1532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20193_1
+  rotate: 180
+  xy: 644, 302
+  size: 882, 1155
+  orig: 882, 1155
+  offset: 0, 0
+  index: -1
+20193_2
+  rotate: false
+  xy: 2, 3
+  size: 906, 1526
+  orig: 906, 1526
+  offset: 0, 0
+  index: -1

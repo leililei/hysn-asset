@@ -1,0 +1,62 @@
+
+2083004_3.png
+size: 2004,1900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggdh_15
+  rotate: true
+  xy: 2, 144
+  size: 62, 400
+  orig: 67, 401
+  offset: 3, 1
+  index: -1
+ggdh_15_1
+  rotate: false
+  xy: 1828, 96
+  size: 95, 461
+  orig: 103, 469
+  offset: 4, 4
+  index: -1
+ggdh_81
+  rotate: true
+  xy: 2, 61
+  size: 81, 212
+  orig: 81, 212
+  offset: 0, 0
+  index: -1
+ggdh_82
+  rotate: false
+  xy: 2, 208
+  size: 628, 130
+  orig: 682, 130
+  offset: 54, 0
+  index: -1
+ggdh_83
+  rotate: false
+  xy: 632, 273
+  size: 248, 65
+  orig: 248, 65
+  offset: 0, 0
+  index: -1
+ggdh_84
+  rotate: false
+  xy: 1227, 2
+  size: 599, 555
+  orig: 599, 555
+  offset: 0, 0
+  index: -1
+ggdh_85
+  rotate: true
+  xy: 2, 340
+  size: 217, 1223
+  orig: 217, 1223
+  offset: 0, 0
+  index: -1
+ggdh_86
+  rotate: true
+  xy: 2, 559
+  size: 1338, 2000
+  orig: 1338, 2000
+  offset: 0, 0
+  index: -1

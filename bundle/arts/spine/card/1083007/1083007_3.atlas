@@ -1,0 +1,62 @@
+
+1083007_3.png
+size: 2048,1904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bzc_2
+  rotate: false
+  xy: 1244, 1178
+  size: 80, 252
+  orig: 81, 281
+  offset: 1, 0
+  index: -1
+bzc_27
+  rotate: false
+  xy: 1244, 774
+  size: 332, 532
+  orig: 332, 628
+  offset: 0, 96
+  index: -1
+bzc_28
+  rotate: false
+  xy: 1244, 499
+  size: 105, 322
+  orig: 118, 323
+  offset: 3, 0
+  index: -1
+bzc_3
+  rotate: false
+  xy: 1611, 1678
+  size: 380, 223
+  orig: 380, 223
+  offset: 0, 0
+  index: -1
+bzc_4
+  rotate: false
+  xy: 1244, 1303
+  size: 486, 598
+  orig: 486, 598
+  offset: 0, 0
+  index: -1
+bzc_56
+  rotate: 180
+  xy: 1223, 4
+  size: 823, 1085
+  orig: 836, 1092
+  offset: 0, 7
+  index: -1
+bzc_57
+  rotate: false
+  xy: 1696, 1129
+  size: 197, 324
+  orig: 197, 324
+  offset: 0, 0
+  index: -1
+bzc_58
+  rotate: false
+  xy: 2, 56
+  size: 1241, 1845
+  orig: 1241, 1845
+  offset: 0, 0
+  index: -1

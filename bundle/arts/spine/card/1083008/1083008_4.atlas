@@ -1,0 +1,20 @@
+
+1083008_4.png
+size: 1844,1840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxsf_111
+  rotate: true
+  xy: 1229, 829
+  size: 1012, 613
+  orig: 1012, 613
+  offset: 0, 0
+  index: -1
+jxsf_112
+  rotate: false
+  xy: 1, 2
+  size: 1226, 1839
+  orig: 1226, 1839
+  offset: 0, 0
+  index: -1

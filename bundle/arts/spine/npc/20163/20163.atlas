@@ -1,0 +1,20 @@
+
+20163.png
+size: 1184,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qk1
+  rotate: 180
+  xy: 545, 475
+  size: 634, 889
+  orig: 634, 946
+  offset: 0, 0
+  index: -1
+qk2
+  rotate: false
+  xy: 2, 3
+  size: 668, 1544
+  orig: 668, 1544
+  offset: 0, 0
+  index: -1

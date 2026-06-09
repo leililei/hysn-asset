@@ -1,0 +1,55 @@
+
+1073006_5.png
+size: 1736,1968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_149
+  rotate: 180
+  xy: 1055, 3
+  size: 313, 1961
+  orig: 313, 1961
+  offset: 0, 0
+  index: -1
+j_150
+  rotate: false
+  xy: 1277, 1325
+  size: 282, 419
+  orig: 282, 461
+  offset: 0, 42
+  index: -1
+j_151
+  rotate: false
+  xy: 1217, 1038
+  size: 515, 926
+  orig: 515, 926
+  offset: 0, 0
+  index: -1
+j_152
+  rotate: true
+  xy: 2, 116
+  size: 271, 1130
+  orig: 271, 1130
+  offset: 0, 0
+  index: -1
+j_153
+  rotate: false
+  xy: 1227, 1038
+  size: 487, 406
+  orig: 487, 406
+  offset: 0, 0
+  index: -1
+j_154
+  rotate: false
+  xy: 1296, 42
+  size: 245, 1077
+  orig: 290, 1207
+  offset: 0, 130
+  index: -1
+j_155
+  rotate: false
+  xy: 2, 388
+  size: 1051, 1577
+  orig: 1051, 1577
+  offset: 0, 0
+  index: -1

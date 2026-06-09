@@ -1,0 +1,48 @@
+
+2083006_3.png
+size: 1236,2008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 299
+  size: 1138, 1707
+  orig: 1138, 1707
+  offset: 0, 0
+  index: -1
+qj_tengman_5
+  rotate: true
+  xy: 2, 79
+  size: 218, 368
+  orig: 218, 370
+  offset: 0, 1
+  index: -1
+qj_tengman_6
+  rotate: false
+  xy: 372, 112
+  size: 820, 186
+  orig: 820, 186
+  offset: 0, 0
+  index: -1
+qj_tengman_7
+  rotate: 270
+  xy: 372, 100
+  size: 109, 495
+  orig: 109, 495
+  offset: 0, 0
+  index: -1
+qj_tengman_8
+  rotate: true
+  xy: 465, 4
+  size: 107, 492
+  orig: 107, 492
+  offset: 0, 0
+  index: -1
+qj_tengman_9
+  rotate: false
+  xy: 1142, 1413
+  size: 90, 592
+  orig: 90, 592
+  offset: 0, 0
+  index: -1

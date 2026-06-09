@@ -1,0 +1,20 @@
+
+20092.png
+size: 1952,1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20092_1
+  rotate: true
+  xy: 1046, 183
+  size: 1137, 901
+  orig: 1137, 901
+  offset: 0, 0
+  index: -1
+20092_2
+  rotate: false
+  xy: 2, 3
+  size: 1186, 1318
+  orig: 1186, 1370
+  offset: 0, 52
+  index: -1

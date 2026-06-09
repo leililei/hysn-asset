@@ -1,0 +1,20 @@
+
+20139.png
+size: 1364,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_1
+  rotate: false
+  xy: 677, 469
+  size: 684, 782
+  orig: 684, 782
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: 180
+  xy: 2, 3
+  size: 1092, 1257
+  orig: 1092, 1257
+  offset: 0, 0
+  index: -1
